@@ -1,0 +1,177 @@
+
+Na mapach: 37,42249°N 122,08558°W (mapa)
+Google
+Przejdź do nawigacjiPrzejdź do wyszukiwania
+	Ten artykuł dotyczy przedsiębiorstwa. Zobacz też: wyszukiwarka Google.
+Google LLC
+Logo
+Ilustracja
+Googleplex – siedziba przedsiębiorstwa
+Państwo	 Stany Zjednoczone
+Stan	 Kalifornia
+Siedziba	Mountain View
+Data założenia	4 września 1998[1]
+Forma prawna	spółka z ograniczoną odpowiedzialnością
+Dyrektor	Sundar Pichai
+Udziałowcy	Alphabet Inc.
+Położenie na mapie Kalifornii
+(Przełącz na mapę Stanów Zjednoczonych)
+Mapa konturowa Kalifornii, po lewej znajduje się punkt z opisem „Google LLC”
+Google LLC
+Google LLC
+37,42249°N 122,08558°W
+	Multimedia w Wikimedia Commons
+Strona internetowa
+
+Od lewej:Eric Schmidt oraz współzałożyciele przedsiębiorstwa: Sergey Brin i Larry Page w 2008 roku
+
+Biuro hiszpańskiego oddziału Google
+
+Uroczyste otwarcie filii przedsiębiorstwa Google w Buenos Aires, Argentyna
+
+Google for Entrepreneurs Campus w Warszawie, będący jednym z elementów realizowanego przez spółkę programu wspierania przedsiębiorczości technologicznej „Google for Startups”
+
+Znak Google Maps w centrum Szczecina
+Google LLC[2] (dawniej Google Inc.) – amerykańskie przedsiębiorstwo informatyczne.
+
+Jego sztandarowym produktem jest wyszukiwarka Google, a deklarowaną misją – „uporządkowanie światowych zasobów informacji tak, by stały się powszechnie dostępne i użyteczne dla każdego”[3].
+
+
+Spis treści
+1	Wprowadzenie
+1.1	Google w Polsce
+2	Produkty i usługi
+3	Historia oraz pochodzenie słowa „Google”
+4	Żarty
+5	Przejęcie portalu Panoramio
+6	Kontrowersje
+7	Działalność społeczna
+8	Zobacz też
+9	Przypisy
+10	Linki zewnętrzne
+Wprowadzenie
+Google Inc. została założona 4 września 1998 przez dwóch doktorantów Uniwersytetu Stanforda, Amerykanina Larry’ego Page’a i Rosjanina pochodzenia żydowskiego Siergieja Brina. Opracowali oni nowatorską metodę analizy powiązań hipertekstowych – algorytm BackRub, potem przemianowany na PageRank – którą wykorzystali w swoim prototypie wyszukiwarki internetowej. Przedsiębiorstwo przetrwało załamanie rynku dot-comów i rozwijało się od tego czasu dzięki wsparciu prywatnych inwestorów; w roku 2004 spółka weszła na amerykańską giełdę i od tej chwili doszło do znacznego przyspieszenia jej ekspansji, zakupu serwisów YouTube, Writely i przejęcia kilku innych mniejszych przedsiębiorstw[2][4].
+
+W grudniu 2018 roku Google (Alphabet Inc.) zatrudnia 98 771 pracowników. W 2007 wykazuje przychody na poziomie 10 miliardów i zyski rzędu 3 miliardów dolarów rocznie. Już w ciągu pierwszych czterech lat działalności sprzedaż została zwiększona z początkowych 200 tys. do 1,50 miliarda dolarów[5]. Korporacja znana jest ze swobodnego klimatu pracy, nietypowych przywilejów dla pracowników oraz zasady biznesowej don’t be evil („nie czyń złego” / „nie bądź zły”). W rankingu magazynu Fortune Spółka zajmuje obecnie czwarte miejsce wśród najlepszych pracodawców[6].
+
+Główna siedziba spółki mieści się w Mountain View w hrabstwie Santa Clara (w stanie Kalifornia), na terenie wcześniej należącym do przedsiębiorstwa Silicon Graphics (SGI).
+
+Google w Polsce
+Polski oddział Google został utworzony w 2005 roku.
+
+ Osobny artykuł: Google Polska.
+Produkty i usługi
+ Osobny artykuł: Produkty i usługi Google Inc.
+Najbardziej znanymi usługami oferowanymi przez spółkę są internetowa wyszukiwarka Google[7] oraz serwisy reklamowe AdWords oraz AdSense, które stanowią główne źródło dochodów spółki. Do innych zaliczają się między innymi popularna poczta Gmail, serwisy Google Maps i Google Earth. Sztandarowymi produktami na rynku oprogramowania są Google Chrome i Google Desktop. Od 2007 Google wraz z innymi przedsiębiorstwami z Open Handset Alliance jest zaangażowane w rozwój platformy Android. Spółka znana jest z tajemniczości dotyczącej planowanych w przyszłości usług, ale według deklaracji samych założycieli, dotyczą one nawet tak odległych zagadnień, jak sztuczna inteligencja na wielką skalę[8]. Spółka rozpoczęła produkcję własnego systemu operacyjnego o nazwie „Google Chrome Operating System”. Ma być szybszy, zużywać mniej zasobów komputera niż konkurenci, jego oparty na Linuksie kod ma być tworzony na zasadzie open source. Jak zapowiada Google, komputer z nowym systemem ma połączyć się z internetem zaledwie w kilka sekund[9].
+
+20 czerwca 2014 Google uruchomiło w Polsce usługę płatnego wypożyczania oraz kupowania filmów w dystrybucji cyfrowej[10]. Filmy będą dostępne w wersjach kinowych[11], z możliwością dowolnego dostępu przy opcji zakupu lub miesięcznego dostępu przy wypożyczeniu[10]. A od roku 2016 Google oferuje swój serwer czasu[12][13].
+
+Historia oraz pochodzenie słowa „Google”
+Nazwa „Google” powstała jako zniekształcona forma słowa „googol”. Twórcą tego terminu był Milton Sirotta, a spopularyzował go amerykański matematyk i wuj Sirotty, Edward Kasner. „Googol” oznacza liczbę 10100 (w zapisie dziesiętnym jedynka i 100 zer).
+
+Jesienią 1997 r. Brin i Page potrzebowali nowej nazwy dla wyszukiwarki BackRub. O pomoc poprosili Seana Andersona, kolegę z pokoju Page’a, który miał za zadanie wypisywać na tablicy wszystkie słowa jakie przyjdą mu do głowy. W końcu, 15 września 1997, podczas którejś sesji Sean zaproponował Googolplex, uzasadniając ten wybór w następujący sposób: „Staracie się opracować produkty, które pozwoliłyby ludziom na przeszukiwanie dużej ilości danych a googol to przecież ogromna liczba”. Larry, któremu spodobała się nazwa, sprawdził, czy domena jest wolna i jeszcze tego wieczora ją zarejestrował[14], nawet nieświadomy błędu, który popełnił wpisując „google”, a następnie nową nazwę wypisał na tablicy w pokoju. Rano Tamara Munzner dopisała „chyba miało być googol?”. Prawidłowa nazwa była już zarejestrowana od dwóch i pół roku[15].
+
+Początkowo wyszukiwarka działała na serwerach amerykańskiego Uniwersytetu Stanforda, w domenie google.stanford.edu, do czasu rejestracji google.com 15 września 1997. Rejestracja przedsiębiorstwa nastąpiła rok później, 4 września 1998. Pierwszym w historii wsparciem finansowym udzielonym Google była kwota stu tysięcy dolarów, przekazana jeszcze przed faktycznym założeniem przedsiębiorstwa Google Inc. Ofiarodawcą był Andy Bechtolsheim, współzałożyciel Sun Microsystems i było to finansowanie na zasadzie anioła biznesu. Jedna z wersji pochodzenia nazwy google mówi, że to właśnie Bechtolsheim popełnił błąd, wpisując firmę na przekazywanym czeku opiewającym na sumę 100 tys. dolarów. 10 sierpnia 2015 dotychczasowy CEO Larry Page ogłosił powołanie nowej spółki Alphabet Inc. Od 3 października 2015, Google jest filią Alphabet, a Sundar Pichai jest CEO Google. Akcje GOOG i GOOGL są obecnie akcjami Alphabet.
+
+Żarty
+Spółka znana jest z wielu humorystycznych akcentów zaszytych w oferowanych usługach, a także z często złożonych żartów primaaprilisowych, takich jak zapowiedzi wprowadzenia napoju Google Gulp![16] albo algorytmu PigeonRank[17], w którym wartość stron internetowych miałaby być obliczana przez gołębie z uwagi na ich rzekomą „umiejętność podejmowania natychmiastowych decyzji w przypadku skonfrontowania z trudnymi wyborami”.
+
+Z okazji prima aprilis w 2013 zaprezentowano aplikację Nos Google, która po przyłożeniu nosa do monitora komputera lub wyświetlacza smartfonu miała emitować każdy wybrany zapach.
+
+Przejęcie portalu Panoramio
+W lipcu 2007 roku koncern przejął portal Panoramio. Wedle obietnic i zobowiązań zdjęcia użytkowników Panoramio, których konta były powiązane z Google miały w momencie likwidacji portalu migrować do Google Photos. Faktycznie portal Panoramio przestał działać dnia 1 lutego 2018, natomiast pliki do tej pory (czerwiec 2018) nie zostały przeniesione do Google, bądź przeniesiono je w śladowych ilościach. Klienci Panoramio, którzy traktowali portal m.in. również jako zewnętrzny dysk dla swoich zdjęć, potracili niejednokrotnie wskutek niedopełnienia tegoż zobowiązania kilkanaście tysięcy i więcej swoich plików. Poznikały również wszystkie starsze zdjęcia z Google Maps, które wcześniej były automatycznie dodawane z portalu Panoramio[18][19].
+
+Kontrowersje
+Niektóre z praktyk stosowanych przez spółkę Google stały się powodem kontrowersji jak np. niejasny sposób pozyskiwania i przechowywania danych dot. indywidualnych użytkowników czy zarzut wspierania cenzury w Internecie.
+
+Innym częstym zarzutem pod adresem Google jest wieloznaczna polityka prywatności, która do niedawna nie podawała żadnych ograniczeń dotyczących tego, jak długo spółka przechowywać będzie zapytania użytkowników i stosowanie ciasteczek do powiązania ze sobą kolejnych wizyt danej osoby. W roku 2007 spółka zmodyfikowała nieco swoją politykę w tym względzie[20].
+
+W 2007 roku Christian Institute oskarżyło Google o dyskryminację organizacji chrześcijańskich i zasad wolności światopoglądowej wyrażonej w brytyjskiej ustawie z 2006 roku z powodu odmowy zamieszczenia płatnych ogłoszeń do swoich internetowych stron pro-life. Reklamy miałyby pojawiać się po wpisaniu hasła „aborcja”. Spółka Google broniła się tym, że przyjęta przez nią polityka zabrania reklamowania i promowania stron, które łączą religię z takimi kwestiami jak właśnie aborcja. Przewód sądowy zakończył się we wrześniu 2008 r. ugodą i wycofaniem Google z zajmowanego stanowiska[21].
+
+Podobny przypadek miał miejsce w Polsce, kiedy spółka Google odmówiła zamieszczenia reklamy zleconej przez Stowarzyszenie Kultury Chrześcijańskiej im. ks. Piotra Skargi. Reklama miała zachęcać do protestu przeciwko przyjęciu przez Polskę Karty praw podstawowych Unii Europejskiej[22].
+
+Google w Japonii za to musiał usunąć część automatycznych podpowiedzi, które – pojawiając się po nazwiskach niektórych osób – sugerowały, iż osoba o której nazwisko się wpisuje w wyszukiwarkę miała mieć kryminalną przeszłość[23].
+
+Google krytykowane jest także za nowy regulamin, który obowiązuje od 1 marca 2012 roku:
+
+Regulamin w sposób nazbyt ogólny definiuje zakres i rodzaj danych osobowych podlegających nowym zasadom. W efekcie większość użytkowników nie będzie w stanie zrozumieć jakie informacje, w jakich celach i w jaki sposób są gromadzone za pośrednictwem poszczególnych serwisów Google. Fakt, że Google informuje użytkowników w jaki sposób nie będzie wykorzystywał danych osobowych oraz przetworzonych informacji na temat działań wykonywanych przez nich w poszczególnych serwisach nie wystarcza do zapewnienia pełnego obrazu tak poważnych zmian – Isabelle Falque-Pierrotin, prezes CNIL[24]
+
+13 maja 2014 Europejski Trybunał Sprawiedliwości nakazał przedsiębiorstwu, aby to udostępniło obywatelom Unii Europejskiej możliwość usunięcia ze stron wyszukiwarki informacji na swój temat[25], co spotkało się z mieszanymi odczuciami ze strony opinii publicznej, gdyż z tej możliwości zadeklarował skorzystać człowiek skazany za posiadanie pornografii dziecięcej[25]. Samo Google, celem prawidłowego rozstrzygania o słuszności napływających wniosków, powołało specjalny zespół doradców, który składa się z radców prawnych oraz filozofów[26]. Wcześniej, przed wyrokiem, Google uważało że podobne czynności mają znamiona cenzury[27].
+
+W lipcu 2017 roku pracujący w Google inżynier James Damore opublikował w wewnętrznej sieci przedsiębiorstwa notatkę, w której podawał w wątpliwość celowość prowadzonych przez przedsiębiorstwo inicjatyw na rzecz różnorodności. W dokumencie Damore sugerował m.in., że mniejszy udział kobiet w przemyśle komputerowym niekoniecznie musi wynikać z seksizmu i dyskryminacji, lecz jest wynikiem naturalnych różnic między zainteresowaniami kobiet i mężczyzn. Twierdził także, że w przedsiębiorstwie panuje wrogość wobec osób wyrażających konserwatywne poglądy[28]. 5 sierpnia zawartość notatki została opublikowana w Internecie przez serwis Motherboard po tym, jak szereg pracowników Google skrytykowało w serwisie Twitter zawartość dokumentu[29]. 7 sierpnia Damore został zwolniony z przedsiębiorstwa[30]. 8 stycznia 2018 roku Damore, wraz z innym zwolnionym pracownikiem Google, wystosował przeciw przedsiębiorstwu pozew zbiorowy, w którym oskarża je o dyskryminację. Według pozwu w Google miała panować kultura wrogości wobec białych mężczyzn oraz osób o konserwatywnych poglądach, a także atmosfera przyzwolenia na ich dyskryminowanie[31][32].
+
+Działalność społeczna
+W 2010 Google przekazało Wikimedia Foundation grant w wysokości 2 mln dolarów[33].
+
+W 2011 spółka rozpoczęła realizację globalnego programu wspierania przedsiębiorczości technologicznej pod nazwą „Google for Entrepreneurs” (od 2018 „Google for Startups”)[34].
+
+W 2015 Google zaprojektowało aplikację, dzięki której poszkodowani w wyniku trzęsienia ziemi w Nepalu mogli odnaleźć lub opublikować informacje o zaginionych[35][36].
+
+Zobacz też
+Google DNS
+Przypisy
+ Google corporate grouping (ang.). Open Corporates. [dostęp 2019-09-27].
+ Sergey Brin, Lawrence Page, The anatomy of a large-scale hypertextual Web search engine, „Computer Networks and ISDN Systems”, 1–7, 30, 1998, s. 107–117, DOI: 10.1016/S0169-7552(98)00110-X.
+ Google – Informacje. Google. [dostęp 2020-04-10].
+ L.A. Barroso, J. Dean, U. Holzle, Web search for a planet: the google cluster architecture, „IEEE Micro”, 2, 23, 2003, s. 22–28, DOI: 10.1109/mm.2003.1196112, Cytat: We believe that the best price/performance tradeoff for our applications comes from fashioning a reliable computing infrastructure from clusters of unreliable commodity PCs..
+ R.Brandt: Potęga Google’a. Wyd. Znak literanova 2011, s. 16.
+ [1], Fortune.
+ Wyszukiwarka Google zaawansowane szukanie w sieci., „Poradnik komputerowy”, mamkomputer.info, 29 kwietnia 2013 [dostęp 2016-10-26].
+ Google’s Page urges scientists to market themselves, C|Net News.
+ Nowy, lepszy system Googla – Najważniejsze informacje – Informacje – portal TVN24.pl – 08.07.2009.
+ Wojtek Onyśków: Filmy Google Play już w Polsce!. Instalki.pl, 20 czerwca 2014.
+ Łukasz Szewczyk: Filmy Google Play dostępne także w Polsce. Jakie ceny?. media2.pl, 2014-06-20 (16:14).
+ Simon Sharwood, Google turns on free public NTP servers that SMEAR TIME, www.theregister.com [dostęp 2021-02-18] (ang.).
+ Public NTP, Google Developers [dostęp 2021-02-18] (ang.).
+ Informacje whois.net na temat domeny google.com.
+ Informacje whois.net na temat domeny googol.com.
+ Googleup – strona oficjalna (ang.). google. [dostęp 2010-09-07].
+ PigeonRank – oficjalna informacja (ang.). google. [dostęp 2010-09-07].
+ Zdjęcia z Panoramio. [dostęp 2018-06-10].
+ Panoramio. [dostęp 2018-06-10].
+ Google Changes Privacy Policy For Search Data, InformationWeek.
+ Google udostępni reklamę przeciwko aborcji, Media2.pl.
+ Cenzura w Google, Najwyższy Czas!
+ Google pozwane – wyszukiwarka automatycznie dodaje do nazwiska Japończyka oszczerstwa Chip.pl [dostęp 2012-06-19].
+ Piotr Waszczuk: Nowa polityka prywatności Google powszechnie krytykowana – Computer World. Computer World, 28 lutego 2012. [dostęp 2013-02-22].
+ Anna Rymsza: Google udostępnił już formularz z prośbą o bycie zapomnianym. dobreprogramy sp. z o.o., 2014-05-30 10:13. [dostęp 2014-05-30].
+ Google w sprawie „prawa do bycia zapomnianym”. 2014-05-30. [dostęp 2014-05-30].
+ Google stworzył internetowy formularz dla wniosków ws. „prawa do bycia zapomnianym”. 2014-05-30. [dostęp 2014-05-30].
+ Google fires employee behind anti-diversity memo, reports say (ang.). Fox News, 7 sierpnia 2017. [dostęp 2018-02-13].
+ Google Employee’s Anti-Diversity Manifesto Goes ‘Internally Viral’ (ang.). Motherboard, 5 sierpnia 2017. [dostęp 2018-02-13].
+ Why I Was Fired by Google (ang.). Wall Street Journal, 11 sierpnia 2017. [dostęp 2018-02-13].
+ James Damore’s Lawsuit Is Designed to Embarrass Google (ang.). Wired, 8 stycznia 2018. [dostęp 2018-02-13].
+ Google, Twitter face new lawsuits alleging discrimination against conservative voices (ang.). The Washington Post, 8 stycznia 2018. [dostęp 2018-02-13].
+ Wikipedia dostała 2 mln dolarów od Google.
+ Adrian Grycuk. Wybrane narzędzia wspierania startupów w Polsce. „Studia BAS”. 2(58), s. 165, 2019.
+ Person Finder: 2015 Nepal Earthquake (ang.). google.org. [dostęp 2015-05-13].
+ Jamnik-Okrutnik: Earthquake in Nepal (ang.). earthquakenepalin2015.com. [dostęp 2020-04-10].
+Linki zewnętrzne
+	Zobacz portal z wiadomościami w serwisie Wikinews na temat Google
+	Zobacz kolekcję cytatów Google w Wikicytatach
+Historia przedsiębiorstwa Google (pol.)
+Oficjalny blog Google Inc. (ang.)
+Oficjalny blog polskiego oddziału Google Inc. (pol.)
+Google w katalogu Open Directory Project
+pde
+Google
+Google Polska Produkty i usługi Google Inc.
+Produkty	
+Wyszukiwarki	
+Wyszukiwarka Google Grafika Google Książki Google Mapy Google (Google Street View) Wiadomości Google Google Programmable Search Engine Google Public Data Explorer Google Scholar Google Shopping Google Trends Google Videos
+Oprogramowanie	
+Asystent Google Android (wersje systemu) Blink Chrome OS Google Chrome Google Earth Google Goggles Chromium OS Google Talk Google Hangouts SketchUp Google Toolbar Dysk Google Google Now Zdjęcia Google
+Serwisy	
+YouTube Google Play (Books) Kreator Map Google Gmail Google+ Google Ads Google AdSense Google Classroom Tłumacz Google Orkut Blogger iGoogle Google Analytics Google Search Console Google Web Toolkit Czytnik Google Kalendarz Google Google Art Project Google Cultural Institute Google Voice Zdjęcia Google FeedBurner
+Nierozwijane	
+Picasa Picasa Web Albums
+Wyszukiwanie	
+PageRank Googlebot Google bomb Google hacking Google Voice Search (wyszukiwanie głosowe) wyszukiwanie obrazem wyszukiwanie spersonalizowane operatory opcje wyszukiwania
+Wydarzenia	
+Google Code Jam Google Highly Open Participation Contest Google Code-in Google Summer of Code
+Ludzie	
+Larry Page Sergey Brin Eric Schmidt Michał Zalewski Ken Thompson Guido van Rossum Al Gore Vinton Gray Cerf George Reyes James Gosling Andrew Morton Rob Pike Marissa Mayer Mike Pinkerton
+
+Tę stronę ostatnio edytowano 14 mar 2022, 15:52.
+Tekst udostępniany na licencji Creative Commons: uznanie autorstwa, na tych samych warunkach, z możliwością obowiązywania dodatkowych ograniczeń. Zobacz szczegółowe informacje o warunkach korzystania.
+Polityka prywatnościO WikipediiKorzystasz z Wikipedii tylko na własną odpowiedzialnośćWersja mobilnaDla deweloperówStatystykiKomunikat na temat ciasteczekWikimedia FoundationPowered by MediaWiki

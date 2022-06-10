@@ -1,0 +1,538 @@
+
+Google LLC
+Zur Navigation springenZur Suche springen
+Google LLC
+
+Rechtsform	Limited Liability Company
+Gründung	4. September 1998
+Sitz	Mountain View, Kalifornien,
+ Vereinigte Staaten
+Leitung	Sundar Pichai (CEO)
+Branche	Internetdienstleistungen, -handel, Werbung, Softwareentwicklung
+Website	www.google.com
+
+Eric Schmidt, Sergey Brin und Larry Page (von links nach rechts, 2008)
+
+Umsatz- und Gewinnentwicklung
+Google LLC ist ein US-amerikanisches Technologieunternehmen, tätig in den Bereichen Hard- und Softwareentwicklung, mit der Rechtsform Limited Liability Company und mit Hauptsitz im kalifornischen Mountain View. Google LLC ist ein Tochterunternehmen der Holding-Gesellschaft XXVI Holdings Inc; diese gehört dem Unternehmen Alphabet Inc.[1] Bis zum 1. September 2017 trug Google LLC den Namen Google Inc.
+
+Google Inc. wurde vor allem durch die gleichnamige Suchmaschine Google bekannt. Das Unternehmen wurde am 4. September 1998 von Larry Page und Sergey Brin gegründet. Noch am selben Tag brachten sie eine Testversion des Programms auf den Markt, und im selben Jahr ging die Suchmaschine ans Netz. Das Unternehmen bekundet, „die Informationen dieser Welt zu organisieren und allgemein zugänglich und nutzbar zu machen“.[2]
+
+Die Suchmaschine des Unternehmens erhielt weltweit etwa 73,4 % aller Desktop-Suchanfragen des Internets (Stand: Juni 2018).[3] Die Marke Google gehört seit Jahren zu den wertvollsten Marken der Welt.[4][5]
+
+Google Inc. gehört seit dem 2. Oktober 2015[6] zu Alphabet. Durch eine Umstrukturierung wurden die Google-Aktien in Alphabet-Aktien umgewandelt und das Unternehmen in mehrere Subunternehmen, welche Alphabet Inc. angehören, aufgeteilt.[7][8] Das Kerngeschäft der Online- und Internetdienste wurde unter dem Namen Google fortgeführt. Der vorige Google-Chef Larry Page wechselte zusammen mit Sergey Brin an die Spitze der neu geschaffenen Holding. Die Führung von Google übernahm Sundar Pichai.[9]
+
+
+Inhaltsverzeichnis
+1	Dienstleistungen
+1.1	Werbedienstleistungen
+1.1.1	Ads
+1.1.2	AdSense
+2	Betriebssysteme
+3	Finanzen
+3.1	Umsatz und Gewinn
+3.2	Steuerproblematik
+3.3	Steueraufkommen in Deutschland
+4	Mitarbeiter
+5	Geschichte
+5.1	Gründung
+5.2	Chronologie
+5.3	Börsenentwicklung
+5.4	Logos
+6	Patente und Gebrauchsmuster
+7	Karitatives Engagement
+8	Standorte
+9	Rechenzentren
+9.1	Nordamerika
+9.2	Südamerika
+9.3	Europa
+9.4	Asien
+9.5	Hardware
+10	Veranstaltungen
+11	Kritik
+12	Literarische und filmische Verarbeitung
+13	Literatur
+14	Weblinks
+15	Einzelnachweise
+Dienstleistungen
+→ Hauptartikel: Liste der Produkte der Google LLC
+Google bietet eine Vielzahl von größtenteils werbefinanzierten kostenlosen Dienstleistungen im World Wide Web an. Dabei handelt es sich vor allem um die Suche auf verschiedenen Datenquellen. Häufig werden neue Einzeldienste ins Angebot aufgenommen, manchmal als Resultat von Unternehmenseinkäufen. Dabei wird eine neue Dienstleistung oft mit dem Zusatz Beta versehen, um anzuzeigen, dass sie noch nicht ausgereift sei. Google wurde dafür kritisiert, dass manche Dienstleistungen den Beta-Status sehr lange behalten.[10] Zudem wurden im Laufe der Zeit zahlreiche Dienste abgeschaltet.[11]
+
+Zu den wichtigsten Diensten zählen:
+
+Google bietet verschiedene Suchmaschinen an.
+Textdokumente im Web – Die bekannteste und meistgenutzte Dienstleistung ist die Volltextsuche von Dokumenten im World Wide Web. Neben dem im Web üblichen HTML-Format durchsucht Google auch andere Dokumenttypen wie PDF, PostScript oder das Doc-Format von Microsoft Word. Ein Faktor bei der Gewichtung der Suchergebnisse ist die Linkpopularität. Der vollständige Algorithmus wird jedoch von Google LLC geheim gehalten, um ein Kopieren der Dienstleistung einerseits und eine irreführende Optimierung kommerzieller oder anderer Seiten auf die Google-Suche andererseits zu erschweren.
+Bilddateien im Web – Um nach Bilddateien zu suchen, verwendet Googles Bildersuche Wörter im Dateinamen sowie in HTML-Dokumenten, die Bilder verwenden. Es werden die Grafikformate JPEG, PNG und GIF unterstützt. Eine Suche nach Bildinhalten ist auch möglich.
+Produkte – Mit Google Shopping, ehemals Froogle, kann man nach bei Online-Händlern angebotenen Waren suchen. Insbesondere ist ein Preisvergleich möglich.
+Bücher und Wissenschaftliche Werke – Google Books ist ein Suchdienst, mit dem eigene Digitalisate und Onlinebücher im Volltext durchsucht werden können. Google Scholar ist ein ähnlicher Dienst, der auf wissenschaftliche Veröffentlichungen spezialisiert ist.
+Videos – YouTube ist ein umfangreicher Dienst mit zahlreichen Videos.
+Musik – YouTube Music stellt Musik auf YouTube gesondert zur Verfügung, im Rahmen eines kostenpflichtigen Abonnements auch offline.
+Karten – Der Online-Atlas Google Maps beinhaltet Straßenkarten, bekannte Orte und eine Vielzahl anderer ortsbezogener Informationen. Google bietet eine Programmierschnittstelle, mit der in Websites Karten und Routenplaner integriert werden können. Google Earth ergänzt das Angebot um einen virtuellen Globus.
+Nachrichten – Der Inhalt von Nachrichten-Websites wird von Google besonders häufig abgerufen. Unter Google News wird dann auf diese Artikel – gruppiert nach Themen, bestimmten Ereignissen und geordnet nach ihrer Bedeutung – verwiesen. So kann der Leser verschiedene Artikel zu einem Ereignis schnell auffinden.
+E-Mail – Gmail ist Googles E-Mail-Dienst. Man kann seine Mails im Web lesen, per POP3 oder per IMAP mit dem eigenen E-Mail-Programm abholen.
+Webseiten – Google Sites ist ein Webhoster, bei dem man als registrierter Benutzer seine eigene Webseite erstellen und veröffentlichen kann.
+Soziale Netzwerke – Orkut und Buzz standen in Konkurrenz zu anderen Gemeinschaftsportalen bzw. Online-Kontaktnetzwerken wie Facebook und Twitter. Nach dem geringen Erfolg von Buzz wurde es zugunsten des Nachfolgers Google+ eingestellt. Im Jahr 2016 stellte Google außerdem den Dienst Spaces vor. Er dient zum Teilen und Kommentieren von Bildern, Texten und Videos.
+Messaging – Google Hangouts, früher Google Talk, ist ein Messenger zum Austausch von Textnachrichten und Videotelefonie.
+Übersetzung – Eine automatische Übersetzung zwischen einigen Sprachen wird für Webseiten angeboten.
+Office-Suite – Mit den Anwendungen Docs, Tabellen und Präsentationen stellt Google ein Office-Paket für Chrome, Android und Apple iOS bereit. Die Applikationen arbeiten eng mit dem Online-Speicher Google Drive zusammen, können neben Dokumenten im Google Format aber auch Microsoft-Office Dateien öffnen. Diese Funktionalität macht auch das für Unternehmen entwickelte G Suite attraktiv. Neben Google Drive können hier auch andere Dienste wie Gmail kostenpflichtig mit erweiterten Funktionen genutzt werden.
+Usenet – Google besitzt mit Google Groups ein umfangreiches Archiv von Newsgroup-Artikeln, welche bis 1981 zurückreichen. In den Beiträgen der verschiedensprachigen Diskussionsforen kann nach Begriffen und Autoren gesucht werden. Die Version 2 ermöglicht außerdem das Anlegen von eigenen Diskussionsforen, allerdings unabhängig vom Usenet.
+Betriebssysteme und Browser – Google bietet die kostenlosen Betriebssysteme Chrome OS und Android sowie den Webbrowser Google Chrome an. Ab 2011 sollte zudem der Android-Ableger Google TV verbreitet werden. 2014 folgte die Einstellung von Google TV und dessen Nachfolger Android TV startete.
+Unternehmen - Für Unternehmen bietet Google die G Suite an. Damit vergibt Google E-Mail-Adressen und Speicherplatz an geschäftliche Kunden. Mit dem Produkt Google My Business können Unternehmen sich in der Google-Suche, in Google Maps und dem ehemaligen Sozialen Netzwerk Google+ präsentieren.
+Werbedienstleistungen
+Ads
+Siehe auch: Google Ads
+Google verkauft für beliebige Suchbegriffe das Einblenden gesponserter Links im Rahmen seines Google-Ads-Programms. Diese reine Textwerbung ist optisch speziell hervorgehoben, so dass der Benutzer sie von den eigentlichen Suchergebnissen unterscheiden kann. Auf diese Weise wird Werbung angezeigt, die inhaltlich zur Suchanfrage passt und somit den werbenden AdWords-Kunden mit der Benutzerklientel zusammenbringt, die mit höherer Wahrscheinlichkeit an seinen Produkten und Dienstleistungen interessiert ist. Der Kunde legt die maximale Vergütung pro Klick selbst fest, wobei eine höhere Vergütung eine höhere Position gegenüber konkurrierenden Anzeigen erzielen kann.
+
+AdSense
+Siehe auch: Google AdSense
+Zusätzlich entstehen Gewinne durch das Google AdSense-Partnerprogramm. Dies ist eine kontextabhängige Werbung, die Webmaster auf ihren Webseiten einbinden können. Hierüber können seit Mai 2004 auch grafische Werbebanner in vier Standardgrößen platziert werden. Seit Juni 2005 können die Kunden über das „Site Targeting“ außerdem gezielt auf bestimmten Seiten werben, statische und animierte Werbebanner einsetzen und diese über die Zahl der Abrufe bezahlen. Bislang war nur eine Bezahlung pro Klick möglich.
+
+Google behält sich eine Deaktivierung eines AdSense-Kontos ohne Angabe von Gründen vor.
+
+Google hat geäußert, sich nicht auf die Werbung im Internet beschränken, sondern mittel- und langfristig am Werbemarkt insgesamt partizipieren zu wollen. Angestrebt wird, AdSense zu einem medienübergreifenden Werbenetzwerk, in das neben der Internetwerbung auch die klassischen Medien Print, Radio und Fernsehen einbezogen sind, auszubauen. Hintergrund ist die Befürchtung, dass Google ohne neue Umsatzquellen bald an Grenzen für die weitere Expansion stoßen könnte. 95 Prozent der weltweiten Werbeumsätze werden nach wie vor in den klassischen Medien getätigt.
+
+Google hat insbesondere in den USA bereits vielfältige Aktivitäten entwickelt. So bestehen Kooperationen und Pilotprojekte mit Presse- und Radiounternehmen, um den Einsatz der Google-Werbekonzepte auch in diesen Sektoren zu testen. Im digitalen, rückkanalfähigen Fernsehen hofft Google, ein Werbeinstrument lancieren zu können, das eine individuelle Werbeansprache der Zuschauer ermöglicht, was als wesentliche Innovation im Werbefernsehen angesehen würde. Auch bei mobilen Datendiensten möchte Google sein AdSense-System durchsetzen.[12]
+
+Betriebssysteme
+Siehe auch: Android (Betriebssystem)
+Das auf Linux basierende Android[13] ist mit einem Marktanteil von 74,6 % das erfolgreichste mobile Betriebssystem der Welt.[14] Es ist offener als der nächstgrößte Konkurrent iOS von Apple, und es gibt weitaus mehr unterschiedliche Geräte mit dem Betriebssystem.[15]
+
+Im Segment Smartwatch sind sie mit ihrem Betriebssystem Wear OS vertreten, der Marktanteil ist hier jedoch weit hinter WatchOS (Apple); auch die Hersteller Samsung und Huawei nutzen Wear OS teilweise nicht.[16][17]
+
+Finanzen
+Umsatz und Gewinn
+Geschäftszahlen
+Jahr	Umsatz
+in Mio. Dollar	Gewinn
+in Mio. Dollar
+2017[18]	110.855	12.662
+2016[18]	90.272	19.478
+2015[19]	74.989	16.348
+2014	66.001	14.136
+2013	55.519	12.920
+2012	46.039	10.737
+2011	37.905	9.737
+2010	29.321	8.505
+2009	23.648	6.519
+2008	21.795	4.282
+2007	16.503	4.203
+2006	10.604	3.078
+2005	6.139	1.465
+2004	3.200	399,1
+2003	961,9	105,6
+2002	347,8	99,7
+2001	86,4	7,0
+2000	19,1	−14,7
+Seit seiner Gründung hat Google seinen Umsatz und Gewinn deutlich gesteigert, siehe Tabelle. 2010 erzielte es einen Umsatz von 29,3 Milliarden US-Dollar und machte einen Gewinn von 8,5 Milliarden US-Dollar. Den größten Teil der Einnahmen nahmen dabei die Werbedienste mit 28,236 Milliarden US-Dollar ein. Weitere Einnahmen erfolgten unter anderem durch Lizenzierungen. 66 % der Einnahmen erfolgten über Google-Webseiten, 30 % über Google-Network-Seiten und 4 % über andere Quellen. Im vierten Quartal 2012 belief sich der Umsatz der Google Inc. auf 14.419 Millionen US-Dollar.[20]
+
+Steuerproblematik
+Google operiert größtenteils in Industrieländern. Um die dort geltenden Steuern auf Gewinne zu umgehen, transferiert Google Gewinne mittels Verrechnungspreisen über Irland in die Niederlande und anschließend nach Bermuda. Dadurch zahlte Google in den Jahren 2007 bis 2009 auf seine Gewinne außerhalb der USA nur einen effektiven Steuersatz von 2,4 % und umging in diesem Zeitraum Steuerzahlungen in Höhe von ungefähr 3,1 Milliarden US-Dollar.[21] 2010 betrug der effektive Steuersatz laut einer Schätzung rund 3 %.[22] In den USA selbst betrug um das Jahr der effektive Steuersatz auf die ausgewiesenen Gewinne 22,4 %. Googles Steuervermeidung ist oft kritisiert worden; ebenso Regierungen, die Steuerschlupflöcher nicht stopfen.[21][23]
+
+2016 transferierte Google rund 16 Milliarden Euro nach Bermuda und 2017 fast 20 Milliarden Euro.[24]
+
+Steueraufkommen in Deutschland
+Gemäß Angaben des Konzerns im Bundesanzeiger zahlte die Google Germany GmbH (Hauptsitz in Hamburg) im Jahr 2014 Einkommen- und Ertragsteuern in Höhe von 12,9 Millionen Euro. Der Umsatz für Deutschland wurde mit 279 Millionen Euro angegeben und ein Bruttogewinn von 22 Millionen Euro ausgewiesen. Laut Angaben der Frankfurter Allgemeinen Zeitung schätzt die VG Media den Jahresumsatz auf bis zu 5 Milliarden Euro. Laut dem Geschäftsbericht dient die Tochtergesellschaft in Deutschland „im Wesentlichen als Servicegesellschaft“ für die Niederlassungen Google Ireland Ltd in Dublin und für den Hauptsitz in den USA. Die Gewinne werden dort und nicht in Deutschland zu anderen Konditionen versteuert.[25]
+
+Mitarbeiter
+Google beschäftigt 102.000 Arbeitnehmer (Stand 2019). Außerdem arbeiten weitere 121.000 Mitarbeiter – also mehr als die Stammbelegschaft – als Werkvertragsnehmer und Zeitarbeiter für Google (Stand 2019).[26] In der Schweiz arbeiten mehr als 3000 Menschen für Google (Stand 2019).[27]
+
+Nach anhaltenden Konflikten mit dem Management gründeten 230 Beschäftigte Anfang 2021 die Interessenvertretung Alphabet Workers Union.[28][29] Der CWA-Ableger steht Beschäftigten aller Unternehmen von Alphabet Inc. offen.[30]
+
+Geschichte
+
+Larry Page (2009)
+Gründung
+1995 begegneten sich Larry Page und Sergey Brin an der Stanford University.[31] Sie konzipierten die Suchmaschine BackRub,[32] einen Google-Vorläufer. Sie wurde nach den Backlinks benannt, die zur Bestimmung der Wertigkeit einer Webseite analysiert werden.[33] Im Jahr 1998 äußerten Internetportale jedoch Desinteresse an der entwickelten Suchtechnik. Im August 1998 stellte der Investor Andreas von Bechtolsheim nach einer zehnminütigen Präsentation der Suchmaschine einen Scheck über 100.000 US-Dollar aus.[34] Da Bechtolsheim annahm, die Firma heiße „Google“, setzte er als Empfänger „Google Inc.“ ein. Ein solches Unternehmen existierte aber bis dahin nicht.[35] Larry Page und Sergey Brin ließen das Unternehmen unter diesem Namen registrieren, damit der Scheck eingelöst werden konnte.[36] Die Herkunft des Namens „Google“ ist außerdem auf die unter dem englischen Namen „googol“ bekannte (sehr große) Zahl {\displaystyle 10^{100}}10^{{100}} zurückzuführen.[37] In einer Garage[38] gründeten sie am 4. September 1998 in Menlo Park die Google Inc. Mit einem Startkapital von 1.100.000 US-Dollar, aufgebracht von den Familien, Freunden und Andy Bechtolsheim, entwickelten und veröffentlichten sie die erste Testversion des Programms. Fünf Monate später bezog Google Inc. mit acht Angestellten ein Büro in Palo Alto. Etwa 500.000 Suchanfragen wurden nun täglich verzeichnet. Nachdem seit September 1999 (laut Google erst Mai 2002[39]) AOL und Netscape mit Google zusammenarbeiteten, versechsfachten sich die Suchanfragen. Ein Grund für den ersten Erfolg von Google war, dass andere Suchmaschinen, vor allem AltaVista, bei der Suche nicht schlechter waren, jedoch 1999 ihre Seiten zu umfangreichen Webportalen ausbauten. Bei den damals noch üblichen langsamen Internet-Verbindungen hatte die einfach aufgebaute Google-Seite deutliche Vorteile.[40][41]
+
+Chronologie
+Entwicklung bis zum Börsengang 2004
+
+Am 21. September 1999 wurde offiziell die Testphase der Google Websuche beendet und der „beta“-Hinweis von der Webseite entfernt.
+Ende des zweiten Quartals 2000 war Google Marktführer auf dem Gebiet der Suchmaschinen mit mehr als einer Milliarde Seiten im Index.
+Im Jahr 2001 wurde Eric Schmidt zum ersten CEO ernannt.
+Im Februar 2001 übernahm Google das Usenet-Archiv von Deja News und startete seine eigene Usenet-Suche Google Groups.[42]
+Im Februar 2003 übernahm Google die Blogging-Plattform Blogger.com des Unternehmens Pyra Labs, das zu dieser Zeit schon hunderttausende Nutzer zählte.[43]
+Im April 2003 kaufte Google das Unternehmen Applied Semantics, Inc. und integrierte die erworbene Technik später in Google AdSense. Applied Semantics hatte zuvor für Kunden wie Overture mit Hilfe einer KeyWordSense genannten Technik die semantische Bedeutung einer Webseite erkannt und gezielte Werbeeinblendungen ermöglicht.[44] Im Juni 2003 begann Google sein AdSense-Werbeprogramm, im Rahmen dessen auf teilnehmenden Websites themenrelevante Werbeanzeigen eingeblendet werden.
+2004
+
+Google übernahm das Unternehmen Where2 LLC. Später entwickelte sich hieraus Google Maps.
+Am 1. April offerierte Google die Beta-Version des kostenlosen E-Mail-Services Gmail mit 1 GB Speicherplatz je Nutzer.
+Am 13. Juli gab Google die Übernahme von Picasa, LLC bekannt, aus deren Entwicklung später das Produkt Google Picasa wurde.[45]
+Am 14. Oktober stellte das Unternehmen seine Google Desktop Search vor, ein Programm zum Durchsuchen der Datenbestände des eigenen Rechners.
+Am 27. Oktober wurde der Kauf der Keyhole Corp. bekanntgegeben. Keyhole legte den Grundstein für Google Earth.[46]
+2005
+
+Am 28. März übernahm Google die Urchin Software Corp. Später entstand daraus das Produkt Google Analytics.[47]
+Am 11. Mai gab Google die Übernahme von Dodgeball, einem mobilen sozialen Netzwerk, bekannt.[48] Hieraus wird später der Dienst Google Latitude.[48][49]
+Im August wurde der Kauf von Android Inc. bekanntgegeben.[50] 2008 veröffentlichte Google die erste Version des Android-Betriebssystems für Mobilgeräte.
+Am 21. Dezember gab Google den Erwerb von 5 % der Aktien von AOL Time Warner bekannt.
+Im Jahr 2005 wurde Google Inc. erstmals auf der Forbes-Liste geführt, es gelang auf Anhieb der Sprung auf Platz 38. Der Unternehmenswert wurde auf etwa 55 Milliarden US-Dollar geschätzt.
+2006
+
+Am 9. März übernahm der Konzern die Start-Up-Firma Upstartle, LLC mit deren Produkt Writely. Später entstand hieraus und aus den Technologien der 2007 erworbenen Unternehmen Tonic Systems[51] und Zenter[52] Google Docs (heute: Google Drive).
+Am 14. März kaufte Google das Unternehmen @Last Software zur Integration von 3D-Skizzen in Google Earth.[53] Das Produkt nennt sich später Google SketchUp.
+Am 29. Juni startete Google das Bezahlsystem Google Checkout.
+Am 30. August startete Google seinen Service Google Books für das Herunterladen nicht mehr urheberrechtlich geschützter Bücher.
+Am 9. Oktober übernahm Google für 1,65 Mrd. US-Dollar das Internet-Videoportal YouTube.[54]
+Am 1. November kaufte Google die Wiki-Start-Up-Firma JotSpot Inc. Später wurde hieraus Google Sites.[55]
+2007
+
+
+Sergey Brin (2005)
+Google durfte nach einem Gerichtsurteil vom 14. Februar 2007 in Belgien die Artikel nationaler Tageszeitungen nicht mehr veröffentlichen und musste 3,45 Mio. Euro Geldstrafe bezahlen.[56]
+Im März 2007 wurde die von dem Schweden Hans Rosling entwickelte Software Trendalyzer (früher Gapminder genannt) durch Übernahme des gleichnamigen Unternehmens erworben. Mit Trendalyzer ist es möglich, statistische Werte zu visualisieren. Einige Komponenten der Software wurden für die allgemeine Benutzung durch die Visualisierungsschnittstelle zur Anwendungsprogrammierung (Google Visualization API) verfügbar.[57]
+Am 13. April 2007 übernahm Google das Online-Werbenetzwerk DoubleClick, Inc., einen der größten Online-Werbevermarkter, für 3,1 Milliarden US-Dollar und überbot damit unter anderem die Mitbieter Microsoft und Yahoo.[58] Die DoubleClick-Technik wurde später in Google AdWords integriert. Google dominiert damit den Markt für Onlinewerbung mit 80 % Marktanteil; die Konkurrenzunternehmen Microsoft und AT&T appellierten deshalb an die Kartellbehörden.[59]
+Am 23. April war Google Schätzungen zufolge die wertvollste Marke der Welt vor General Electric, Microsoft und Coca-Cola.[60] Drei Tage darauf konnte Google auf die meisten Besucher im Internet vor Microsoft, Yahoo, Time Warner, eBay und Wikipedia verweisen.[61]
+Am 30. Mai kaufte der Konzern Panoramio, ein Start-Up-Unternehmen, das sich auf die Verbreitung geolokaler Digitalfotos spezialisiert hatte. Diese Fotos können nun in Google Earth und Google Maps angezeigt werden.
+Am 3. Juli übernahm das Unternehmen den kalifornischen Telefondienstleister GrandCentral Communications. Hieraus entstand das VoIP-Produkt Google Voice.[62]
+2008
+
+Im März präsentierte Google seinen Dienst für elektronische Patientenakten namens Google Health.
+Am 23. Juli ging mit Knol ein Wissensportal in die öffentliche Testphase.
+Im September wurde ein von Google entwickelter Browser namens Google Chrome vorgestellt.
+Google wurde exklusiver Sponsor eines Satelliten namens GeoEye-1, der aktuelle hochauflösende Satellitenfotos für Google Earth und Google Maps liefert.[63][64] Beim Start des Satelliten waren die beiden Google-Gründer Larry Page und Sergey Brin anwesend.[65]
+2009
+
+Seit März können Werbekunden von Google über Interest Based Ads mittels interessenbasierter Anzeigen (siehe Targeted Advertising) Konsumenten gezielter ansprechen.[66][67][68]
+Am 31. März 2009 startete Google eine eigene Beteiligungsgesellschaft mit einem Risikokapital in Höhe von 100 Millionen US-Dollar, um dieses in erfolgversprechende Start-Up-Unternehmen aus allen Wirtschaftsteilen zu investieren. Der Schwerpunkt der Finanzinvestments liegt laut Aussage der Google-Ventures-Managing-Partner Rich Miner und Bill Maris in den Bereichen Software, Umwelttechnik, Biotechnologie, Gesundheitswesen und Internettechnologien für Verbraucher.[69][70][71]
+Im Mai 2009 wurde mit Google Wave ein internetbasiertes System zur Kommunikation und Zusammenarbeit in Echtzeit vorgestellt. Die Entwickler stammen aus der Firmenübernahme von Where2 LLC aus dem Jahr 2004, aus dem Google Maps entstand.
+Im Juni wurde Google Squared veröffentlicht, eine experimentelle Suchmaschine, die Suchergebnisse im Tabellenformat liefert und versucht, automatisch Struktur in unstrukturierte Daten aus dem Web zu bringen.[72][73]
+Mit Google Chrome OS wurde ein für Computer konzipiertes Betriebssystem vorgestellt, das auf dem Linux-Kernel basiert und den integrierten Webbrowser Google Chrome als Hauptplattform für Webanwendungen nutzt. Google Chrome OS wurde wie Android als Open Source verfügbar gemacht.[74]
+Google Book Search strebte in den USA eine rechtliche Einigung über Copyright-Verletzungen bei eingescannten Büchern an. Gleichzeitig sollte darüber die bisherige Praxis der Copyright-Verletzung legalisiert werden und eine Nutzungsvereinbarung mit weltweit allen Buchautoren und Rechteinhabern getroffen werden, sofern sie dem Vergleichsvorschlag, dessen Einspruchsfrist der 8. September 2009 war, nicht widersprechen (siehe Google Book Settlement).
+Am 16. September 2009 gab Google bekannt, den führenden Captcha-Spezialisten reCAPTCHA übernommen zu haben. Damit ergab sich für Google die Möglichkeit, die eigenen Aktivitäten zur Digitalisierung von Handschriften und Büchern, z. B. im Rahmen von Google Bücher, zu unterstützen.
+2010
+
+Im Januar 2010 wurde das Mittelklasse-Smartphone Nexus vorgestellt, ein Vorläufer der Pixel-Reihe.[75]
+Am 9. Februar veröffentlichte das Unternehmen Google Buzz, einen Dienst zum Austausch von Nachrichten und Kommentaren.
+2011
+
+Seit Februar bietet das Google Art Project die Möglichkeit, virtuelle Rundgänge durch bedeutende internationale Kunstmuseen zu unternehmen und ausgewählte Kunstwerke in sehr hoher Auflösung und mit Zoomfunktion zu betrachten. Zusätzliche Informationen zu den Werken und Künstlern werden am Bildrand eingeblendet.[76]
+Ende März wurde der Dienst Google+ vorgestellt. Ähnlich dem Gefällt mir-Button von Facebook können Nutzer Suchergebnisse und Anzeigen mit dem +1-Button markieren, um andere Nutzer auf dieses Ergebnis aufmerksam zu machen.
+Google startet in Amerika Google Fiber. Erste Nutzer in Kansas City (Kansas) und Kansas City (Missouri) können mit der entsprechenden Netzwerk-Box einen Internetanschluss mit bis zu 1 Gbit/s Download und Upload erhalten, sowie bis zu 173 Fernsehkanäle empfangen.[77]
+Im August kündigte Google an, die Mobilfunksparte Motorola Mobility von Motorola für 12,5 Milliarden US-Dollar zu übernehmen.[78] Anfang 2014 wird die Marke Motorola für 2,9 Milliarden US-Dollar an Lenovo verkauft.[79]
+Im September gab Google die Übernahme vom Couponing-Portal DailyDeal und von Zagat Survey bekannt.[80] Der 1979 gegründete Restaurantführer soll das Angebot Google Places ergänzen.
+2011 steigerte Google seine Ausgaben für Lobbying deutlich. Von April bis Juni 2011 investierte Google in den USA 2,1 Millionen US-Dollar in die Einflussnahme, 2010 im selben Zeitraum dagegen 1,34 Millionen US-Dollar.[81] Als Hintergrund werden Schritte der Federal Trade Commission angesehen, evtl. eine Untersuchung über Googles Vormachtstellung im Internet anzustrengen.[82]
+2012
+
+Google hat sich im Rahmen des newTLD-Programms bei der ICANN um die Vergabe zahlreicher neuer Top-Level-Domains beworben. Dazu gehören unter anderem .google, .youtube, .docs, .lol, .blog, .chrome und .gmail sowie .store.[83] Mit insgesamt 101 Anträgen ist Google Spitzenreiter vor Amazon.[84] Google firmiert unter den Bewerbungen allerdings als „Charleston Road Registry Inc.“, eine Tochtergesellschaft von Google, die nur für die Vergabe neuer TLDs gegründet wurde.[85] Im Oktober 2012 wurde bekannt, dass das Unternehmen drei seiner Bewerbungen zurückgezogen hat, da diese nicht den Richtlinien der ICANN entsprochen haben.[86]
+Im Juni 2012 hat Google den Messengerdienst meebo gekauft.[87] Einige Funktionen des Dienstes wurden in Google-Produkte integriert.
+Google hat in Kooperation mit der Stiftung Entrepreneurship und Indiegogo die sogenannte Gründer-Garage ins Leben gerufen. Auf einer Onlineplattform können Existenzgründer aus Deutschland an kostenlosen Kursen teilnehmen und sich um eine Finanzierung durch die Projektpartner bewerben. Dabei setzt Google unter anderem auch auf Crowdfunding.[88]
+Im September 2012 gab Google die Übernahme des deutschen Unternehmens Nik Software bekannt. Diese ist vor allem für ihre iOS-App Snapseed bekannt, die Instagram sehr ähnelt. Die Akquisition wird gemeinhin als Angriff auf Facebook gesehen, das Instagram im April 2012 erworben und in zahlreiche eigene Dienste integriert hat.[89]
+Im November 2012 wurde Ingress vorgestellt, zunächst in Form einer geschlossenen Beta-Version. Das Spiel dreht sich um eine virtuelle Welt, die teilweise (je nach erreichtem Level) mit der echten Welt verschmelzen soll. Ingress wurde als erstes Alternative-Reality-Spiel für Smartphones überhaupt eingestuft und erfuhr daher eine breite mediale Beachtung. Entwickler ist John Hanke, ehemaliger Leiter der Abteilung für Geodaten bei Google.[90]
+Im Dezember 2012 wurde das Programm Google Business Photos gestartet. Teilnehmende Unternehmen können von ausgewählten Fotografen professionelle Bilder der jeweiligen Niederlassung und deren Räumlichkeiten erstellen lassen, die anschließend als Galerie auf Google veröffentlicht werden. Das Angebot ist eng mit Google Maps und Google+ Local verknüpft, wo Unternehmen bereits eigene Profile hinterlegen können.[91]
+2013
+
+Im Februar trat Google als eines der ersten Unternehmen der FIDO-Allianz bei, die den Industriestandard Universal Second Factor (U2F) für eine allgemein anwendbare Zwei-Faktor-Authentifizierung entwickelt hat.
+Das Chromebook Pixel wurde am 21. Februar in San Francisco vorgestellt.[92] Im Vergleich zu früheren Chromebooks zeichnet es sich vor allem durch seinen hochauflösenden Bildschirm mit Touchscreen aus, außerdem kann optional ein LTE-Modul konfiguriert werden. Das Notebook wurde zunächst über Google Play im Vereinigten Königreich und den Vereinigten Staaten verkauft.[93]
+Im März des Jahres veröffentlichte Google unter dem Namen Google Keep einen Dienst zur Verwaltung von Notizen und Aufgaben.[94] Zu Beginn stand neben einer webbasierten Oberfläche nur eine Anwendung für Android zur Verfügung, später sollen laut Google auch andere Plattformen abgedeckt werden. Der Dienst steht in direkter Konkurrenz zu Evernote, Wunderlist und Microsoft OneNote.[95]
+Anfang April stellte Google den Kontoinaktivität-Manager vor. Mit seiner Hilfe können Nutzer festlegen, was mit ihrem Google-Konto geschehen soll, wenn es nicht mehr genutzt wird und der Inhaber beispielsweise verstorben ist. In diesem Fall wird es nach einem festgelegten Zeitraum an Dritte übergeben und ggf. komplett gelöscht.[96] Ob Inaktivität vorliegt oder nicht, entscheidet Google anhand diverser Faktoren, etwa der Nutzung des Android-Handys oder des Webprotokolls.[97]
+Im Juni gab Google Project Loon bekannt: Mit Hilfe untereinander vernetzter Heißluftballons möchte das Unternehmen Gegenden mit einem Internetzugang versorgen, die bisher nicht anderweitig erreicht werden. In Canterbury (Neuseeland) wurde ein Testlauf mit 30 modifizierten Wetterballons durchgeführt, der nach eigenen Angaben eine Übertragungsrate vergleichbar mit UMTS erreichte und 50 Haushalte dauerhaft versorgen soll.[98]
+Ende 2013 übernahm Google das Unternehmen Boston Dynamics, das Robotiksysteme für das US-Militär entwickelt.[99]
+2014
+
+Im Januar 2014 übernahm Google mit Deep Mind einen Spezialisten für Künstliche Intelligenz.[100]
+Anfang 2014 kaufte Google den Thermostat- und Feuermelderhersteller Nest Labs.[101]
+Im April 2014 übernahm Google Titan Aerospace. Das Unternehmen stellt Spezialdrohnen her, die in großer Höhe satellitentypische Funktionen ausüben.[102]
+Im Juni 2014 kaufte Google das Unternehmen Skybox Imaging, ein Raumfahrtunternehmen, das hochauflösende Satellitenfotografie anbietet.[103]
+Seit November 2014 hat Google das Moffett Federal Airfield, im Silicon Valley zwischen San Francisco und San José gelegen, für 60 Jahre von der NASA gemietet. Die Miete für die gesamte Zeit beträgt 1,16 Milliarden US-Dollar.[104] Google möchte das Gelände für Tests im Bereich Luft- und Raumfahrt sowie Robotik nutzen.[105]
+2015
+
+
+Firmenstruktur der Alphabet Inc. 2015
+Seit August 2015 gehört die Google Inc. durch eine Umstrukturierung zu der neu gegründeten Holding-Dachgesellschaft Alphabet Inc., die von Larry Page und Sergey Brin geleitet wird. Diverse Tochterunternehmen und Abteilungen, darunter Calico, Nest Labs, X, Google Fiber, Google Capital und Google Ventures, werden aus Google Inc. ausgegliedert und direkt Alphabet untergeordnet.
+2016
+
+Ende 2016 startete Google die Handy-Serie Pixel als Nachfolge der Nexus-Smartphones.[106][107]
+2017
+
+Im März 2017 kaufte Google das Data-Science-Portal Kaggle.[108]
+Im September 2017 kaufte Google Teile des Smartphone-Herstellers HTC für 1,1 Milliarden US-Dollar. In diesem Deal sind auch die Rechte von HTC inbegriffen.[109]
+Am 1. September 2017 gab Google Inc. ihre Umbenennung in Google LLC bekannt.[110]
+2018
+
+Im März 2018 gab Google den Kauf der größten GIF-Suchmaschine Tenor bekannt, welche dadurch Einzug in Google-Apps und Features hielt.[111]
+2019
+
+Am 1. November 2019 gab Google bekannt, Fitbit für 2,1 Milliarden US-Dollar zu übernehmen.[112]
+Börsenentwicklung
+Am 29. April 2004 verkündete das Unternehmen den Gang an die US-Börse. Die Online-Registrierung für den Börsengang (IPO), von dem man sich einen Erlös von 3,3 Milliarden US-Dollar erhoffte, begann am 1. August. Der ursprünglich geplante Ausgabepreis von 108 bis 135 US-Dollar je Aktie musste auf 80 bis 85 US-Dollar gesenkt werden, bevor die Aktie am 19. August 2004 zum ersten Mal in den Handel kam. Bereits am ersten Handelstag stieg der Kurs auf über 100 US-Dollar und machte damit Larry Page und Sergey Brin, die jeder etwa 38 Millionen Aktien hielten, zu Multimilliardären.
+
+Am 18. November 2005 kletterte die Aktie über die 400-US-Dollar-Marke. Bei 179.123.000 ausgegebenen Aktien hatte Google damit einen Marktwert von 112 Milliarden US-Dollar. Aufgrund des hohen Börsenkurses übertraf Google große Konzerne wie Coca-Cola, IBM, Cisco oder Time Warner. Die Google-Gründer befanden sich nun in den Top 20 der reichsten Menschen der USA.[113]
+
+Am 24. Oktober 2006 überstieg der Google-Marktwert 150 Milliarden US-Dollar. Damit war Google weit mehr wert als das Branchenschwergewicht IBM.[114][115] Die Aktie des Unternehmens kletterte am 22. November 2006 über die 500-US-Dollar-Marke. Bei 179.123.000 ausgegebenen Aktien hatte Google damit einen Marktwert von 156 Milliarden US-Dollar. Damit rangierte Google auf Platz 14 der US-Unternehmen und weltweit auf Platz 3 der IT-Unternehmen.[116]
+
+Am 19. Oktober 2007 kletterte Googles Marktwert auf über 200 Milliarden US-Dollar.[117] Damit rangierte Google auf Platz 2 hinter Microsoft (293 Milliarden US-Dollar) der weltweiten IT-Unternehmen[118] und auf Platz 10 aller US-Unternehmen.[119] Die Aktie war am 31. Oktober 2007 innerhalb von drei Wochen von 600 US-Dollar auf 700 US-Dollar gestiegen, der Marktwert lag damit bei 220 Milliarden US-Dollar. Google zog so 2007 an Procter & Gamble (218 Milliarden US-Dollar), der Bank of America (214 Milliarden US-Dollar) und dem weltgrößten Automobilhersteller Toyota (204 Milliarden US-Dollar) vorbei.[120]
+
+Insgesamt gibt es 313 Millionen Aktien von Google LLC. Der Wert der Aktie lag Anfang 2007 bei mehr als 500 US-Dollar. Ende 2007 erreichte die Aktie ein Allzeithoch von über 700 US-Dollar.[121] Der Börsenwert betrug am 17. März 2008 rund 84 Milliarden US-Dollar; der Börsenkurs lag an diesem Tag bei etwa 268 US-Dollar pro Aktie. Das zweite Quartal 2012 war sehr erfolgreich und der Gewinn betrug 2,8 Milliarden Dollar, bei einem Aktienkurs von 550 Euro.[122]
+
+Logos
+Das Logo ist der Firmenname „Google“, geschrieben in vier Farben: blau für die beiden Buchstaben „G“ und „g“, rot für das „o“ und „e“, gelb für das zweite „o“ und grün für das „l“. Die Schriftart – Catull (verwendet für das Logo von 1999 bis 31. August 2015) – wurde 1982 von Gustav Jäger für die H. Berthold AG gestaltet.[123] Das Logo wurde einige Male leicht verändert. Mit dem Logo ab 1. September 2015 verabschiedet sich Google von den Serifen und verwendet „Product Sans“ als neue Schriftart.[124]
+
+
+Erstes Logo
+(September 1998)
+
+ 
+
+Zweites Logo (1998)
+
+ 
+
+Drittes Logo bis 1999
+
+ 
+
+Viertes Logo bis
+zum 5. Mai 2010
+
+ 
+
+Fünftes Logo bis zum 19. September 2013
+
+ 
+
+Sechstes Logo bis
+zum 31. August 2015
+
+ 
+
+Siebtes Logo seit
+dem 1. September 2015
+
+Am 27. September 2019 widmete sich Google selbst ein Google-Doodle zum „21. Geburtstag von Google“.
+
+Patente und Gebrauchsmuster
+Um das umfassende Produktportfolio zu schützen, meldete Google im Jahr 2007 595 Patente und Gebrauchsmuster an. Durch die Akquisition von Motorola Mobility und weiteren Unternehmen ist davon auszugehen, dass die Zahl der Patente, welche im Besitz von Google sind, deutlich höher ist.
+
+Karitatives Engagement
+Mit Google.org besteht abseits des eigentlichen Unternehmens, der Google LLC, seit 2005 eine karitative Einrichtung, welche als „philanthropischer Arm von Google“ bezeichnet wird.[125] Das Startkapital betrug 1 Milliarde Dollar. Ihr Ziel ist es, gewinnbringend in verschiedene vorhandene Projekte zu investieren, aber auch eigene Unternehmungen anzugehen. Google.org will vor allem Bereiche wie globale Armut, Energie und Umweltschutz abdecken. Zu den bekanntesten Projekten zählt die Google Vermisstensuche und die geplante Mitentwicklung eines Hybridautos. Derzeitiger Direktor ist der Arzt und Epidemiologe Larry Brilliant, Gründer und Leiter der Seva Foundation.
+
+Standorte
+
+Das Googleplex
+Das Unternehmen hat seine Zentrale, das Googleplex, in Mountain View im Silicon Valley, wo das Unternehmen auch gegründet wurde. Daneben unterhält Google viele Zweigniederlassungen in der ganzen Welt. Die Zentrale für das Geschäft in EMEA befindet sich in Dublin am Grand Canal Dock. Andere Standorte sind in Europa neben Dänemark, Polen, Tschechien, der Schweiz (Entwicklungszentrum in Zürich seit 2004; damals noch mit einem Zweipersonenbüro, 2021 mit über 4000 Angestellten das größte Entwicklungszentrum in Europa[126][127]), Frankreich und den Niederlanden auch in Deutschland in Hamburg (Zentrale von Google Germany in der ABC-Straße) und München eingerichtet worden.[128]
+
+Im Februar 2011 wurde bekannt gegeben, dass in Berlin ein neues Forschungsinstitut aufgebaut werden soll.[129] Anlässlich der Gründungsveranstaltung erläuterte Googles Rechtsvorstand David Drummond in einem Gastbeitrag für Zeit Online, welche Absichten der Konzern bei diesem Engagement verfolgt: „[Wir möchten] die Interaktion zwischen Internet, Wissenschaft und Gesellschaft besser verstehen. Wir benötigen dazu die Hilfe von wissenschaftlichen Experten […] Wenn wir sicherstellen möchten, dass Forschung auch in Zukunft auf einer nachhaltigen Grundlage basiert und ihren Platz auf der Agenda der Entscheidungsträger behält, dann muss die Öffentlichkeit stärker einbezogen werden.“ (25. Okt. 2011[130])
+
+Rechenzentren
+
+Google Data Center in The Dalles, Oregon. Im Vordergrund die Hochspannungsanlage zur Stromversorgung
+Google LLC betreibt weltweit eine Reihe von Rechenzentren, die jeweils die komplette Funktionalität der Suchmaschine enthalten. Eine Benutzeranfrage wird, gesteuert durch das Domain Name System, im Idealfall an das netztopologisch nächste Rechenzentrum – nicht immer mit dem geografisch nächstgelegenen identisch – geleitet und von ihm beantwortet. Fällt ein Rechenzentrum ganz aus, übernimmt ein anderes seine Aufgaben.
+
+Die Standorte sind derzeit:[131]
+
+Nordamerika
+Berkeley County,  South Carolina
+Council Bluffs,  Iowa
+The Dalles,  Oregon
+Douglas County,  Georgia
+Henderson,  Nevada
+Jackson County,  Alabama
+Lenoir,  North Carolina
+Loudoun County,  Virginia
+Mayes County,  Oklahoma
+Midlothian,  Texas
+Südamerika
+Quilicura,  Chile
+Europa
+Dublin,  Irland
+Eemshaven,  Niederlande
+Fredericia,  Dänemark
+Hamina,  Finnland
+Saint-Ghislain,  Belgien
+Asien
+Landkreis Changhua,  Taiwan
+ Singapur
+Die Errichtung von Rechenzentren in Asien wurde von Beobachtern als Zeichen gewertet, dass Google dort ein großes Wachstum erwartet.[132]
+
+Google hebt hervor, dass das Unternehmen seit 2007, vor allem durch Erwerb von Emissionsausgleichskontingenten, CO2-neutral arbeitet.[133][134][135]
+
+Hardware
+
+Erstes Google-Serverrack, ausgestellt im Computer History Museum
+Jedes Rechenzentrum besteht aus einem Rechnerverbund (Cluster). Die verwendeten Rechner sind IBM-kompatible Personal Computer, bestehen also aus preiswerten Standardkomponenten. Hier kommt das selbstentwickelte Google File System zum Einsatz, eine verteilte Architektur, bei der alle Daten mehrfach redundant auf verschiedenen Geräten gespeichert sind. Ist einer der Rechner oder nur eine Festplatte eines Rechners ausgefallen, werden die entsprechenden Daten von einer anderen Stelle im Cluster auf einen Ersatzrechner kopiert, und die ausgefallene Hardware-Komponente kann im laufenden Betrieb ausgetauscht werden, ohne dass Ausfälle entstehen. Das Gesamtsystem ist skalierbar, d. h., dass nach Bedarf weitere Rechner und Festplatten hinzugefügt werden können.
+
+Man schätzt, dass Google über etwa eine Million Server verfügt (2011).[136]
+
+Veranstaltungen
+Google veranstaltet jährlich den Google Summer of Code und hilft dabei innovativen Softwareprojekten u. a. finanziell. Außerdem sponsert Google die AI Challenge, einen Programmierwettbewerb im Bereich künstlicher Intelligenz. Zudem werden jedes Jahr mehrere Entwicklerkonferenzen abgehalten. Dazu gehören die Google I/O und der Summer of Code.
+
+Kritik
+→ Hauptartikel: Kritik an der Google LLC
+Google steht im Umgang mit dem Datenschutz öfter in der Kritik. Zu weiteren Kritikpunkten am Unternehmen gehören stattfindende Filterung aus der Ergebnisliste der Suchmaschine, der Umgang mit der Konkurrenz, Urheberrechtsverletzungen, Steuerflucht und eine Quasi-Monopolstellung. Weiterhin beteiligt sich Google seit 2017 am Militärprojekt Maven des US-Verteidigungsministeriums zur automatisierten Zielerfassung mittels künstlicher Intelligenz.[137]
+
+Literarische und filmische Verarbeitung
+Im Thriller Toggle wurde das Unternehmen von Florian Felix Weyh 2012 als „Toggle Inc.“ fiktionalisiert. Der Konzern betreibt im Roman über das Suchmaschinengeschäft hinaus einen Dienst namens „Toggle Democracy“, der aufgrund gespeicherter Daten seiner Nutzer deren individuellen Menschenwert errechnet und damit politische und wirtschaftliche Privilegien bzw. Nachteile verknüpft.[138][139][140] Das demokratische Prinzip „one man, one vote“ wird im Roman außer Kraft gesetzt. Ähnliche dystopische Erwartungen äußerte Weyh u. a. bereits 2007 in seinem Sachbuch Die letzte Wahl.
+In der US-amerikanischen Filmkomödie Prakti.com (Originaltitel The Internship) fangen zwei Arbeitslose in den Mitt-Vierzigern ein Praktikum bei Google an. Das Unternehmen ist nicht an der Produktion des Films beteiligt, trotzdem durfte ein Teil des Filmes im Googleplex, dem Unternehmenssitz von Google, gedreht werden. Der überwiegende Teil entstand jedoch auf dem Campus des Georgia Institute of Technology in Atlanta, Georgia.
+Literatur
+David Vise, Mark Malseed: The Google Story., Random House, New York 2005, ISBN 0-553-80457-X (engl. Originalausg., Auszüge; Website zum Buch)
+David Vise, Mark Malseed: Die Google-Story. Murmann, Hamburg 2006, ISBN 3-938017-56-2.
+John Battelle: Die Suche. Geschäftleben und Kultur im Banne von Google & Co. Börsenmedien, Kulmbach 2006, ISBN 3-938350-11-3.
+Jean-Noël Jeanneney: Googles Herausforderung. Für eine europäische Bibliothek. Wagenbach, Berlin 2006, ISBN 3-8031-2534-0.
+Ralf Kaumanns, Veit Siegenheim: Die Google-Ökonomie: Wie Google die Wirtschaft verändert. BoD, Norderstedt 2007, ISBN 978-3-8334-9795-7.
+Marcel Marchill, Markus Beiler: Die Macht der Suchmaschinen. Halem, Köln 2007, ISBN 978-3-938258-33-0.
+Gerald Reischl: Die Google-Falle. Die unkontrollierte Weltmacht im Internet. Überreuther, Wien 2008, ISBN 978-3-8000-7323-8.
+Lars Reppesgard: Das Google Imperium. Murmann, Hamburg 2008, ISBN 978-3-86774-046-3.
+Jeff Jarvis: Was würde Google tun? Wie man von den Erfolgsstrategien des Internet-Giganten profitiert. Heyne, 2009 (englisch: What would Google do? New York, NY: HarperBusiness, ISBN 978-0-06-170971-5. Übersetzt von Heike Holtsch).
+Theo Röhle: Der Google-Komplex: über Macht im Zeitalter des Internets, Transcript, Bielefeld 2010, ISBN 978-3-8376-1478-7 (Dissertation Uni Hamburg 2010, 261 Seiten).
+Bernd M. Samland: Der Google-Effekt: die Bildung markenspezifischer Verben, Logos, Berlin 2010, ISBN 978-3-8325-2374-9 (Dissertation Universität Rostock 2010, 182 Seiten).
+Steven Levy: Google Inside. Wie Google denkt, arbeitet und unser Leben verändert. mitp, Heidelberg 2012, ISBN 978-3-8266-9243-7. (Amerikanische Originalausgabe: In the Plex. How Google Thinks, Works and Shapes Our Lives. Simon & Schuster, New York 2011).
+Eric Schmidt, Jonathan Rosenberg, Alan Eagle: Wie Google tickt. Campus, Frankfurt am Main 2015, ISBN 978-3-593-50216-8 (Die amerikanische Originalausgabe How Google Works erschien erstmals 2014 bei Grand Central Publishing in New York)
+Thomas Schulz: Was Google wirklich will. Wie der einflussreichste Konzern der Welt unsere Zukunft verändert. 3. Auflage. Penguin, München 2017, ISBN 978-3-328-10143-7. (Die deutsche Originalausgabe erschien erstmals 2015 bei der Deutschen Verlags-Anstalt in München)
+Scott Galloway: The Four. Die geheime DNA von Amazon, Apple, Facebook und Google. Plassen, Kulmbach 2018, ISBN 978-3-86470-487-1. (Amerikanische Originalausgabe: The Four. The Hidden DNA of Amazon, Apple, Facebook and Google. Portfolio/Penguin, New York 2017, ISBN 978-0-7352-1365-4)
+Weblinks
+Weitere Inhalte in den
+Schwesterprojekten der Wikipedia:
+Commons-logo.svg	Commons	– Medieninhalte (Kategorie)
+Wiktfavicon en.svg	Wiktionary	– Wörterbucheinträge
+Wikinews-logo.svg	Wikinews	– Nachrichten
+Wikiquote-logo.svg	Wikiquote	– Zitate
+Offizielle Website
+Offizieller Blog
+Offizielle Google-Zeitgeschichte, eine Auflistung von Meldungen seit Sommer 1995 (englisch)
+Einzelnachweise
+ Alphabet Finishes Reorganization With New XXVI Company, Mark Bergen
+ Google - About Google, Our Culture & Company News. Abgerufen am 13. März 2022 (englisch).
+ statista.com: Marktanteile der Suchmaschinen weltweit nach mobiler und stationärer Nutzung im Juni 2018, statista.
+ BrandZ Top 100 Most valuable global brands 2011 (PDF), MillwordBrown
+ Best Global Brands 2013 (Memento vom 21. Oktober 2014 im Internet Archive) (PDF), Interbrand
+ Mitteilung der Börsenaufsicht der Vereinigten Staaten; United States Securities and Exchange Commission vom 2. Oktober 2015, abgerufen am 5. Oktober 2015.
+ Gründer bauen Internetkonzern um – Google wird zu Alphabet, tagesschau.de.
+ Revolution bei Google: Abspaltungen und eine Holding, heise.de.
+ Google vollzieht Umbau zu Alphabet-Holding, heise-online vom 3. Oktober 2015.
+ Wade Roush: Google zum Gähnen. Artikel, Technology Review, 19. Juni 2006. Abgerufen am 7. Februar 2007
+ Ivan Mehta: Killed By Google is a digital graveyard of the company’s dead products. 26. März 2019, abgerufen am 25. August 2021 (englisch).
+ Ralf Kaumanns, Veit Siegenheim: Von der Suchmaschine zum Werbekonzern (Memento vom 16. Dezember 2014 im Internet Archive) (PDF; 1,5 MB). MP 1/2008, S. 25–33.
+ Android basiert auf Linux, aber was bedeutet das? Abgerufen am 31. August 2020.
+ Mobile Operating System Market Share Worldwide. Abgerufen am 31. August 2020 (englisch).
+ Der große iOS vs. Android Vergleich – alle Fakten im Check. Abgerufen am 31. August 2020.
+ Denny Fischer: Fast niemand kauft Android-Uhren: Wear OS by Google endgültig gescheitert? 26. August 2020, abgerufen am 31. August 2020 (deutsch).
+ 4 Ways Google's Android Beats Samsung's Android and 3 Ways It Doesn't. Abgerufen am 31. August 2020 (amerikanisches Englisch).
+ Alphabet Registered (A) Bilanz, Gewinn und Umsatz | Alphabet Registered (A) Geschäftsbericht | A14Y6F. Abgerufen am 21. Oktober 2018.
+ Alphabet Investor Relations. In: Alphabet Investor Relations. Abgerufen am 16. März 2016.
+ Angaben von Google, 2011 Financial Tables
+ Google 2.4% Rate Shows How $60 Billion Lost to Tax Loopholes, 20. Oktober 2010 Bloomberg
+ FAZ: Google und andere – Über Irland Gewinne in Steueroasen schleusen, 28. August 2011
+ Corporate Tax Holiday in Debt Ceiling Deal: Where’s the Uproar?, 20. Juli 2011, Rolling Stone Politics – Matt Taibbi
+ FAZ.net 4. Januar 2019: Google schleuste 20 Milliarden Euro durch Steuerschlupfloch
+ Frankfurter Allgemeine Zeitung, Googles deutsches Steuersparmodell, 29. Januar 2016
+ Google beschäftigt mehr Zeitarbeiter als eigene Mitarbeiter
+ 15 Jahre Google Schweiz - «Google.ch hat die Schweizer Onlinelandschaft umgepflügt». In: srf.ch. 10. September 2019, abgerufen am 29. September 2019.
+ Axel Kannenberg: Googles US-Mitarbeiter gründen Gewerkschaft. In: heise online. 4. Januar 2021, abgerufen am 4. Januar 2021.
+ Tobias Költzsch: Alphabet. Google-Mitarbeiter gründen Betriebsrat. In: Golem.de. IT-News für Profis. 4. Januar 2021, abgerufen am 4. Januar 2021.
+ Alphabet Workers Union. Abgerufen am 4. Januar 2021.
+ Der Triumph der grossen Zahl. Neue Zürcher Zeitung. 25. April 2008. Abgerufen am 6. Mai 2008.
+ 20 Jahre Google: BackRub – So hat vor über zwei Jahrzehnten die Geschichte von Google begonnen. In: GoogleWatchBlog. 26. August 2018 (googlewatchblog.de [abgerufen am 2. September 2018]).
+ John Battelle: The Birth of Google. In: Wired, August 2005.
+ Googeln wie ein Gott mz-web.de 14. September 2008
+ Offizielle Unternehmensgeschichte von Google, 8. Februar 2008
+ „Google, ein 100.000-Dollar-Missverständnis“, Heise online, 7. September 2008
+ David Koller: Origin of the name „Google“. Abgerufen am 19. Oktober 2016 (englisch).
+ Ansicht der Garage 1998 auf der Google Webseite
+ Unternehmensgeschichte im Detail: 2002, Google Inc.
+ Sergey Brin, Lawrence Page: The anatomy of a large-scale hypertextual Web search engine. In: Computer Networks and ISDN Systems. Band 30, Nr. 1–7, 1998, S. 107–117, doi:10.1016/S0169-7552(98)00110-X (englisch, stanford.edu [PDF; abgerufen am 9. März 2020]).
+ L.A. Barroso, J. Dean, U. Holzle: Web search for a planet: the google cluster architecture. In: IEEE Micro. 23, Nr. 2, 29. April 2003, S. 22–28. doi:10.1109/mm.2003.1196112. „We believe that the best price/performance tradeoff for our applications comes from fashioning a reliable computing infrastructure from clusters of unreliable commodity PCs.“
+ Google Acquires Usenet Discussion Service and Significant Assets from Deja.com
+ Blogger.com: Über uns. Abgerufen am 5. Dezember 2014.
+ Google Buys Applied Semantics
+ Google Acquires Picasa
+ Google Acquires Keyhole Corp
+ Google Inc.: Google Agrees To Acquire Urchin, 28. März 2005
+ VentureBeat: Google Acquires Dodgeball
+ Where Are You? Show 'Em With Google Latitude
+ BusinessWeek: (Memento vom 21. Oktober 2011 im Internet Archive) Google Buys Android for Its Mobile Arsenal
+ Official Google Blog: We're expecting (Memento vom 30. Dezember 2009 im Internet Archive)
+ Official Google Blog: More sharing (Memento vom 30. Dezember 2009 im Internet Archive)
+ Official Google Blog: A new home for @Last Software
+ tagesschau.de: Google schluckt Videoportal YouTube (Memento vom 17. Juli 2009 im Internet Archive)
+ Google übernahm Wiki-Startup JotSpot, heise.de
+ BuchMarkt 3/2007, S. 25
+ Google Visualization API Gadget Gallery, Google Developers
+ Google kauft DoubleClick für 3,1 Milliarden US-Dollar, golem.de
+ „Google und DoubleClick würden zusammen mehr als 80 Prozent der Werbung umschlagen, die ein Internet-Nutzer sieht, wenn er eine Website ansteuert, argumentierten sie.“ spiegel.de
+ Ranking. Google ist wertvollste Marke der Welt, spiegel.de, 23. April 2007.
+ spiegel.de: für März 2007: „1. Google (528 Millionen Besucher) 2. Microsoft (527 Millionen Besucher) 3. Yahoo (473 Millionen Besucher) 4. Time-Warner (272 Millionen Besucher) 5. Ebay (256 Millionen Besucher) 6. Wikipedia (212 Millionen Besucher)“
+ Google integriert GrandCentral als Google Voice, heise.de
+ Geoeye-1: Googles Satellit liefert erstes Bild, netzwelt.de
+ Google wirft ein GeoEye-1 auf Earth, silicon.de
+ Bernd Kling: Google sieht dich – jetzt noch schärfer, itespresso.de, 7. September 2008
+ AdSense Blog: Höhere Einnahmen durch maßgeschneiderte Anzeigen
+ Behavioral Targeting bei Google AdSense und YouTube, golem.de
+ Personalisierte Werbung – Google weiß, wo du surfst, sueddeutsche.de
+ Alexis Johann: Google Ventures verteilt 100 Millionen an Start Ups (Memento vom 8. Dezember 2014 im Internet Archive). wirtschaftsblatt.at, 1. April 2009
+ ZDnet: Google startet Beteiligungsgesellschaft Google Ventures
+ Google’s newest venture, Google Blog
+ What Is Google Squared? It Is How Google Will Crush Wolfram Alpha (Exclusive Video), Techcrunch
+ Google Squared ist online, heise online
+ Google veröffentlicht den Quelltext von Chrome OS. Heise Online, 19. November 2009, abgerufen am 20. November 2009.
+ Technische Details zum Google Nexus One - fairhandy. Abgerufen am 25. August 2020.
+ Pressemitteilung von Google am 1. Februar 2011. Abgerufen am 11. Februar 2011 (englisch).
+ Google Fiber – How to get Fiber, fiber.google.com, abgerufen am 8. März 2013
+ Volker Briegleb: Google übernimmt Motorola Mobility. heise online, 15. August 2011.
+ Roland Lindner: Verkauf an Lenovo: Google stößt Motorola wieder ab. FAZ.NET, 29. Januar 2014.
+ Google übernimmt Restaurantführer Zagat Survey, abgerufen am 12. September 2011
+ Google drängt auf das Parkett der Super-Lobbyisten, Lobbycontrol, 29. Juli 2011
+ Google’s Lobbying Blitz, Newsweek, 23. Juli 2011
+ Expanding the Internet domain space. In: Google Official Blog. Abgerufen am 5. Juli 2012 (englisch).
+ 70 New-gTLD-Bewerber aus Deutschland – Google und Amazon Spitzenreiter. In: united-domains Blog. Abgerufen am 7. Mai 2012.
+ Internetnews.com, abgerufen am 16. August 2012
+ Google zieht drei Domain Bewerbungen zurück. In: united-domains Blog. 6. September 2012, abgerufen am 15. Oktober 2012.
+ Lisa Hemmerich: Übernahme: Google kauft Instant-Messaging-Dienst Meebo. In: netzwelt. 5. Juni 2012, abgerufen am 18. September 2012.
+ Annika Demgen: Link-Wink: Google startet „Gründer-Garage“ in Berlin. In: netzwelt. 3. August 2012, abgerufen am 4. August 2012.
+ Yvonne Ortmann: Kampf der Fotodienste: Google schnappt sich Foto-App Snapseed. (Nicht mehr online verfügbar.) In: t3n Magazin. 18. September 2012, archiviert vom Original am 19. September 2012; abgerufen am 4. Februar 2019.
+ Yvonne Ortmann: Google Ingress: Weltweites Alternate-Reality-Spiel fürs Smartphone. (Nicht mehr online verfügbar.) In: t3n Magazin. 17. November 2012, archiviert vom Original am 19. November 2012; abgerufen am 2. April 2019.
+ Lars Budde: Google integriert Unternehmensfotos in Suchergebnisse. In: t3n Magazin. 20. Dezember 2012, abgerufen am 21. Dezember 2012.
+ Pascal: Chromebook Pixel vorgestellt. In: googlewatchblog.de. 21. Februar 2013, abgerufen am 22. Juli 2013.
+ Jürgen Kuri: Google: Chromebook Pixel mit Touchscreen und hochauflösendem Display. In: heise online. 22. Februar 2013, abgerufen am 22. März 2013.
+ Jan Tißler: Google Keep: Notizendienst offiziell gestartet. In: t3n Magazin. 20. März 2013, archiviert vom Original am 22. März 2013; abgerufen am 22. März 2013.
+ Jürgen Vielmeier: Wie Google es immer noch schafft zu überraschen. (Nicht mehr online verfügbar.) In: Netzwertig. 21. März 2013, archiviert vom Original am 23. März 2013; abgerufen am 22. März 2013.
+ Jan Tißler: Google Kontoinaktivität-Manager: So regelst du deinen digitalen Nachlass. In: t3n Magazin. 11. April 2013, abgerufen am 12. April 2013.
+ Über den Kontoinaktivität-Manager. In: Hilfe. Google Inc., abgerufen am 12. April 2013.
+ Kim Rixecker: Project Loon: Heißluftballons bringen das Internet in entlegene Gegenden. (Nicht mehr online verfügbar.) In: t3n Magazin. 17. Juni 2013, archiviert vom Original am 20. Juni 2013; abgerufen am 2. April 2019.
+ Andreas Donath: Boston Dynamics: Google kauft zum Jahresende Militärroboter-Hersteller. Golem.de, 14. Dezember 2013, abgerufen am 16. Dezember 2013.
+ Henning Steier: Google kauft DeepMind. nzz.ch, 27. Januar 2014, abgerufen am 31. Januar 2014.
+ Henning Steier: Google kauft Google möchte Nest Labs kaufen. nzz.ch, 14. Januar 2014, abgerufen am 27. März 2018.
+ NTV: Hyperschnell und hochfliegend: Google kauft Drohenenbauer. n-tv.de, 16. April 2014, abgerufen am 16. April 2014.
+ Google kauft Spezialisten für Satellitenbilder. Handelsblatt, abgerufen am 10. Juni 2014.
+ Google gönnt sich einen Flughafen, sueddeutsche.de am 11. November 2014
+ Google mietet kalifornischen Flugplatz für 60 Jahre, heise.de, 11. November 2014
+ Google Pixel: Release, technische Daten, Bilder und Preis. 5. Oktober 2016, abgerufen am 25. August 2020.
+ Pixel 3a (XL): Vorstellungstermin für neues Google-Handy steht fest. 16. April 2019, abgerufen am 25. August 2020.
+ techcrunch.com: Google is acquiring data science community Kaggle
+ Milliarden-Deal: Google kauft Teile der HTC-Smartphone-Sparte – Golem.de. (golem.de [abgerufen am 22. September 2017]).
+ bloomberg.com: Alphabet Finishes Reorganization With New XXVI Company
+ Markus Kasanmascheff: Google kauft Tenor: Das können GIF-Nutzer nach dem Deal erwarten. In: Netzwelt. 28. März 2018, abgerufen am 8. März 2021.
+ Rick Osterloh: Helping more people with wearables: Google to acquire Fitbit. In: blog.google. 1. November 2019, abgerufen am 1. November 2019 (englisch).
+ Google-Aktie klettert über 400-Dollar-Marke, heise.de
+ Rekord: Der Google-Marktwert steigt über 150 Milliarden Dollar, spiegel.de
+ Google ist an der Wall Street mehr wert als IBM, heise.de
+ Aktien von Apple und Google auf Allzeithoch, heise.de
+ heise.de: Googles Börsenwert knackt die 200-Milliarden-Grenze
+ „Google hat inzwischen alle Technologie- und Internet-Werte mit Ausnahme von Microsoft [Börsenwert 293 Mrd. Dollar überholt. Die Google-Aktien sind insgesamt mehr wert als die des Netzwerkausrüsters Cisco Systems [199 Mrd.], des Chip-Riesen Intel [158 Mrd.] und der Computer-Branchenführer IBM [156 Mrd.] und Hewlett-Packard [137 Mrd.].“] orf.at
+ „Vor wenigen Tagen überschritt der Kurs der Google-Aktie die 600-Dollar-Marke und das Unternehmen steht mittlerweile in der Rangliste der wertvollsten US-Gesellschaften auf Platz zehn.“ sueddeutsche.de
+ Google-Aktie: In nur drei Wochen 100 US-Dollar teurer, heise.de
+ welt.de: Google-Aktie knackt auch die 700-US-Dollar-Marke
+ Geschäftsbericht Google Inc. (PDF; 127 kB)
+ Catull Pro. In: Berthold Types. Abgerufen am 26. August 2012.
+ Spezifikation der Schriftart „Product Sans“ https://storage.googleapis.com/g-design/static/product-sans-specimen.pdf
+ Google commits $1 billion to charity. The Boston Globe, 12. Oktober 2005, abgerufen am 23. August 2016 (englisch).
+ Peter Haber, Jan Hodel: Internet. In: Historisches Lexikon der Schweiz. 20. Dezember 2018, abgerufen am 4. März 2020.
+ Claudia Rey: Google expandiert in Zürich. In: Neue Zürcher Zeitung. Nr. 124, 2. Juni 2021, S. 13 (nzz.ch [abgerufen am 2. Juni 2021]).
+ aecom.com (Memento vom 18. Januar 2015 im Webarchiv archive.today)
+ Internet und Gesellschaft: Google baut Forschungsinstitut in Berlin – Artikel bei Golem.de, vom 16. Februar 2011
+ David Drummond: Google: „Interaktion von Internet, Forschung und Gesellschaft verstehen“. Zeit Online, 25. Oktober 2011
+ Discover our data center locations. Abgerufen am 25. Dezember 2019 (englisch).
+ Google lässt in Asien bauen. In: n-tv. 15. Dezember 2011, abgerufen am 26. August 2012.
+ Google green, abgerufen am 3. Februar 2016
+ Wie viel Energie verbraucht das Netz? Zeit online, 13. Mai 2011
+ Google legt erstmals seinen Energieverbrauch offen Die Welt, 8. September 2011
+ Jonathan D. Koomney, Professor an der Stanford University – Growth In Data Center Electricity Use 2005 To 2010 (PDF; 853 kB) Blogbeitrag auf Koomneys Website. Abgerufen am 23. April 2015.
+ heise online: Militär-Projekt Maven: Hunderte Wissenschaftler unterstützen protestierende Google-Mitarbeiter. Abgerufen am 13. März 2022.
+ Immer dieses böse, böse Internet, ZEITonline, abgerufen am 11. Januar 2012.
+ Google will die Weltherrschaft, Die Presse, abgerufen am 15. Januar 2012
+ Napper, Zapper, Bauernfänger In: Süddeutsche Zeitung 14. Januar 2012.
+Einklappen
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+DatenschutzÜber WikipediaImpressumMobile AnsichtEntwicklerStatistikenStellungnahme zu CookiesWikimedia FoundationPowered by MediaWiki

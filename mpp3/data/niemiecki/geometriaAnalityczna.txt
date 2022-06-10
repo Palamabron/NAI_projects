@@ -1,0 +1,99 @@
+Die analytische Geometrie (auch Vektorgeometrie) ist ein Teilgebiet der Geometrie, das algebraische Hilfsmittel (vor allem aus der linearen Algebra) zur Lösung geometrischer Probleme bereitstellt. Sie ermöglicht es in vielen Fällen, geometrische Aufgabenstellungen rein rechnerisch zu lösen, ohne die Anschauung zu Hilfe zu nehmen.
+
+Demgegenüber wird Geometrie, die ihre Sätze ohne Bezug zu einem Zahlensystem auf einer axiomatischen Grundlage begründet, als synthetische Geometrie bezeichnet.
+
+Die Verfahren der analytischen Geometrie werden in allen Naturwissenschaften angewendet, vor allem aber in der Physik, wie zum Beispiel bei der Beschreibung von Planetenbahnen. Ursprünglich befasste sich die analytische Geometrie nur mit Fragestellungen der ebenen und der räumlichen (euklidischen) Geometrie. Im allgemeinen Sinn jedoch beschreibt die analytische Geometrie affine Räume beliebiger Dimension über beliebigen Körpern.Entscheidendes Hilfsmittel der analytischen Geometrie ist ein Koordinatensystem. In der Praxis verwendet man meist ein kartesisches Koordinatensystem. Für manche einfache Fragestellungen, etwa die Bestimmung von Geradenschnittpunkten, die Untersuchung von Geraden auf Parallelität oder die Berechnung von Teilverhältnissen, würde allerdings schon ein schiefwinkliges Koordinatensystem ausreichen. Unverzichtbar ist ein kartesisches Koordinatensystem, wenn Abstände oder Winkel berechnet werden sollen.
+
+Vektoren
+Viele Rechnungen der analytischen Geometrie werden durch die Methoden der Vektorrechnung vereinheitlicht und vereinfacht. Obwohl die gesamte analytische Geometrie ohne Vektoren erfunden wurde und natürlich immer noch ohne Vektoren praktiziert werden kann und umgekehrt der Vektorraum als ein abstrakt-algebraisches Konstrukt ohne geometrischen Bezug definiert werden kann, erscheint die Verwendung von Vektoren in kartesischen Koordinatensystemen so natürlich, dass „Lineare Algebra und Analytische Geometrie“ in der Sekundarstufe II und im mathematisch-physikalisch-technischen Grundstudium allgemein als ein Kurs unterrichtet werden.
+
+Koordinaten- und Parametergleichungen
+Kompliziertere geometrische Gebilde wie Geraden, Ebenen, Kreise, Kugeln werden als Punktmengen aufgefasst und durch Gleichungen beschrieben. Dabei kann es sich um Koordinatengleichungen oder um Parametergleichungen handeln.
+
+Implizite Koordinatengleichung
+Ein von den Koordinaten abhängiger Rechenausdruck wird gleich 0 gesetzt.
+Beispiel (Gerade der Zeichenebene)
+Explizite Koordinatengleichung
+Eine der Koordinaten wird durch die anderen ausgedrückt.
+Beispiel (Ebene im Raum)
+Explizite Koordinatengleichungen haben den Nachteil, dass oft Fallunterscheidungen durchzuführen sind; so ist es beispielsweise
+in der Ebene unmöglich, eine Parallele zur y = mx+t darzustellen.
+Parametergleichung
+Analytische Geometrie der Ebene
+Punkte in der Ebene
+
+Die zusammengefassten Koordinaten von Punkten bilden im ebenen Fall geordnete Paare.
+
+Geraden in der Ebene
+Koordinatengleichung
+Man spricht auch von der Normal(en)form der Geradengleichung, da der Vektor senkrecht (normal) zur Geraden steht.
+Parametergleichung
+Dabei ist der Ortsvektor eines beliebigen, aber fest gewählten Punktes der Geraden ist ein so genannter Richtungsvektor, also ein Vektor, dessen Richtung parallel zur Geraden ist.
+Kurven zweiter Ordnung in der Ebene
+Durch eine (implizite Koordinaten-)Gleichung zweiten Grades
+
+Die zusammengefassten Koordinaten von Punkten bilden im räumlichen Fall 3-Tupel.
+
+Geraden im Raum
+Koordinatengleichungen
+Geraden im Raum können nicht durch eine einzige Koordinatengleichung beschrieben werden. Man kann eine Gerade aber stets als Durchschnitt (Schnittmenge) zweier Ebenen auffassen und Koordinatengleichungen dieser beiden Ebenen (siehe unten) verwenden, um die Gerade eindeutig festzulegen.
+Parametergleichung
+Die Gleichung hat also dieselbe Form wie im zweidimensionalen Fall.
+
+beschreibt eine Fläche zweiter Ordnung. Die wichtigsten Spezialfälle sind:
+
+Ellipsoid, elliptisches Paraboloid, hyperbolisches Paraboloid, einschaliges Hyperboloid, zweischaliges Hyperboloid, Kegel, elliptischer Zylinder, parabolischer Zylinder, hyperbolischer Zylinder.
+
+Verallgemeinerung: Analytische Geometrie eines beliebigen affinen Raumes
+Die Konzepte der analytischen Geometrie lassen sich dadurch verallgemeinern, dass man Koordinaten aus einem beliebigen Körper sowie beliebige Dimensionen zulässt.
+
+In Analogie zu den Kurven zweiter Ordnung (Kegelschnitten) der ebenen Geometrie und zu den Flächen zweiter Ordnung der räumlichen Geometrie betrachtet man im n-dimensionalen affinen Raum auch so genannte Quadriken, das sind Hyperflächen zweiter Ordnung, die durch Koordinatengleichungen zweiten Grades definiert sind:
+
+Typische Aufgabenstellungen der analytischen Geometrie
+Inzidenz-Überprüfung
+Hier geht es darum festzustellen, ob ein gegebener Punkt zu einer gegebenen Punktmenge (etwa zu einer Geraden) gehört.
+
+Im zweidimensionalen Raum
+Als Beispiel soll die Gerade mit der expliziten Koordinatengleichung
+
+Im dreidimensionalen Raum
+Es soll geprüft werden, ob der Punkt auf der Geraden mit folgender Parameterform liegt:
+
+Da t in allen drei Fällen denselben Wert hat  auf der Geraden.
+
+Bestimmung der Schnittmenge zweier Punktmengen
+Die Bestimmung der Schnittmenge zweier Punktmengen (z. B. des Schnittpunkts zweier Geraden) läuft auf das Lösen eines Gleichungssystems hinaus. Je nachdem, in welcher Form die beiden Punktmengen beschrieben werden, variiert das Verfahren ein wenig:
+
+
+Beide Punktmengen sind durch Koordinatengleichungen gegeben.
+In diesem Fall wird die Schnittmenge durch die Gesamtheit der Koordinatengleichungen beschrieben.
+
+Beide Punktmengen sind durch Parametergleichungen gegeben.
+Die Schnittmenge erhält man durch Gleichsetzen der rechten Seiten dieser Gleichungen.
+
+Eine der Punktmengen ist durch eine Koordinatengleichung gegeben, die andere durch eine Parametergleichung.
+In diesem Fall setzt man die einzelnen Koordinaten der vektoriellen Parametergleichung in die Vektorgleichung ein.
+Im zweidimensionalen Raum
+Es soll geprüft werden, ob und wo sich die Graphen der Funktionen Graphen.png
+
+Um die Schnittpunkte zu berechnen, werden nun die Funktionsterme der Gleichungen der beiden Funktionen gleichgesetzt. Auf diese Weise findet man die x-Koordinate(n), für welche die beiden Funktionen die gleiche 
+\end{matrix}
+Das Lösen dieser quadratischen Funktion führt zu den Lösungen:
+
+Durch Einsetzung in eine der beiden anfänglichen Gleichungen ergibt das die Schnittpunkte bei: .
+
+Im dreidimensionalen Raum
+Es soll geprüft werden, ob und in welchem Punkt sich die beiden Geraden und 
+Wie im zweidimensionalen Raum werden auch hier die beiden Gleichungen gleichgesetzt:
+
+
+Die Vektorgleichung kann man in folgende 3 Gleichungen zerlegen:
+
+
+Den Ortsvektor des Schnittpunktes der Geraden erhält man, indem man einen der beiden berechneten Parameter 
+Geschichte
+Die analytische Geometrie wurde von dem französischen Mathematiker und Philosophen René Descartes begründet. Wesentliche Erweiterungen sind Leonhard Euler zu verdanken, der sich insbesondere mit den Kurven bzw. Flächen zweiter Ordnung befasste. Die Entwicklung der Vektorrechnung (unter anderem durch Hermann Graßmann) ermöglichte die heute übliche Vektorschreibweise.
+
+David Hilbert hat nachgewiesen, dass die dreidimensionale analytische Geometrie vollständig äquivalent ist zu der (synthetischen) euklidischen Geometrie in der von ihm präzisierten Form. In praktischer Hinsicht ist sie dieser weit überlegen. In der ersten Hälfte des 20. Jahrhunderts wurde deshalb die Ansicht vertreten, Geometrie in der Art, wie sie seit Euklid gelehrt wurde, sei nur noch von geschichtlichem Interesse.
+
+Nicolas Bourbaki ging sogar noch einen Schritt weiter: Er verzichtete ganz auf geometrische Begriffsbildungen wie Punkt, Gerade usw. und hielt mit Behandlung der Linearen Algebra alles Nötige für gesagt. Dabei wird natürlich – wie stets bei Bourbaki – von den Bedürfnissen der angewandten Mathematik völlig abgesehen.
