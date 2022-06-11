@@ -8,5 +8,5 @@ def getData(path="Data/plecak_wyzarzanie.txt"):
     for i in range(len(data)):
         for j in range(len(data[i])):
             data[i][j] = int(data[i][j])
-    print(data)
+    # print(data)
     return data
