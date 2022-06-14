@@ -27,8 +27,8 @@ def huffman_code_tree(treeNode, binString=''):
     return d
 
 
-def calculate(filePath="Data/huffman.txt"):
-    freq = dataToSortedDict(getData(path=filePath))
+def calculate(data):
+    freq = dataToSortedDict(data)
 
     freq = sorted(freq.items(), key=lambda x: x[1], reverse=True)
 
@@ -52,6 +52,3 @@ def calculate(filePath="Data/huffman.txt"):
     print('----------------------')
     for (char, frequency) in freq:
         print(' %-4r |%12s' % (char, huffmanCode[char]))
-
-
-calculate()
