@@ -1,6 +1,5 @@
 import math
 import random
-from dataManipulation import getData
 
 
 # vector: (weight, value, probability)
